@@ -1,0 +1,6555 @@
+[{
+  "_id": {
+    "$oid": "6264d80c40416e69960364ec"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Adaptador de Cable OTG Micro USB 2.0",
+  "description": "Adaptador de Cable OTG Micro USB 2,0, convertidor para teléfono móvil Android, Samsung, tableta, Pc a unidad Flash, ratón OTG Hub",
+  "marca": "Generico",
+  "purchasePrice": 20,
+  "salePrice": 8,
+  "colors": [
+    "Blanco",
+    "Negro"
+  ],
+  "stock": 49,
+  "materials": [
+    "Alumnio",
+    "Metal"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/2cd96300-647f-48ff-9abf-a12ce971d9e3.webp",
+    "/images/products/4c014845-a07f-4796-8192-159960622a03.webp"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 1,
+    "depth": 0.5
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650776076248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650776076248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265bc9789274be4c644bc45"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Xiaomi-auriculares inalámbricos TWS con Bluetooth",
+  "description": "Xiaomi-auriculares inalámbricos TWS con Bluetooth, miniaudífonos estéreo con reducción de ruido, resistentes al agua, para música",
+  "marca": "Xiaomi",
+  "purchasePrice": 270,
+  "salePrice": 120,
+  "colors": [
+    "Azul",
+    "Blanco",
+    "Negro"
+  ],
+  "stock": 7,
+  "materials": [
+    "Plastico",
+    "Metal",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/e3f44633-03d9-40b5-894f-b23f1a9e7e20.jpg",
+    "/images/products/ac3b065d-c38d-4e2d-854b-83718a445937.webp"
+  ],
+  "sizes": {
+    "width": 8,
+    "height": 10,
+    "depth": 3
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650834583051"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650834583051"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6264ca3940416e69960364e4"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Adaptador USB tipo C",
+  "description": "Baseus-Adaptador USB tipo C a USB, cable OTG para Macbook Pro Air, Samsung S20, S10",
+  "marca": "Baseus",
+  "purchasePrice": 20,
+  "salePrice": 10,
+  "colors": [
+    "Gris"
+  ],
+  "stock": 20,
+  "materials": [
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/bec2ec1d-cba0-4bf9-ae30-45d6fecbc068.webp",
+    "/images/products/7b055997-ce52-4c23-ad36-34c801dbebb3.webp"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 3,
+    "depth": 1
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650772537976"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650772537976"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265bbac89274be4c644bc3d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Lenovo-auriculares inalámbricos XE05",
+  "description": "Lenovo-auriculares inalámbricos XE05, cascos con Bluetooth 5,0, estéreo, IPX5, deportivos, impermeables, con micrófono y cancelación de ruido",
+  "marca": "Lenovo",
+  "purchasePrice": 170,
+  "salePrice": 90,
+  "colors": [
+    "Rojo",
+    "Negro"
+  ],
+  "stock": 10,
+  "materials": [
+    "Plastico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/b30453a9-9c15-40b0-b912-548999d4776d.webp",
+    "/images/products/6b238257-20be-4e02-ac9a-72a47e3b52b0.webp"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 80,
+    "depth": 0.5
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650834348266"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650834348266"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626605d989274be4c644bd92"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko DC Universe - Wonder Woman",
+  "description": "Recreación de personaje\r\nDesarrollado por Funko\r\nColeccionable",
+  "marca": "Funko",
+  "purchasePrice": 359,
+  "salePrice": 199,
+  "colors": [
+    "Amarillo",
+    "Rojo",
+    "Rosa"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/dd5d16de-0f16-4c31-81a1-132ed0a48b24.jpg",
+    "/images/products/039c4a04-cd8d-450a-a454-4f9119f910c8.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650853337456"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650853337456"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265bfd089274be4c644bc63"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Funda negra para mando inalámbrico Xbox One",
+  "description": "Funda negra para mando inalámbrico Xbox One, carcasa con soporte para paquete de batería",
+  "marca": "Generico",
+  "purchasePrice": 100,
+  "salePrice": 56,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 15,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/59ac2fe4-0b66-4e93-8e1a-d135b0e3a2ff.webp",
+    "/images/products/b82bd4ba-9fe5-4595-8f1a-f38aef0a6d3e.webp"
+  ],
+  "sizes": {
+    "width": 7,
+    "height": 5,
+    "depth": 0.05
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650835408099"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650835408099"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265d0c489274be4c644bced"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": " Call Of Duty Infinite Warfare Edición Estándar para Xbox One Juego Físico",
+  "description": "Vuelve la guerra a gran escala. Call of Duty: InfiniteWarfare nos embarcará en un viaje inolvidable, en el que combatiremos en heroicas batallas en la Tierra y más allá de nuestra atmósfera, contra un implacable enemigo que amenaza nuestro estilo",
+  "marca": "Activision",
+  "purchasePrice": 399,
+  "salePrice": 199,
+  "colors": [
+    "Negro",
+    "Gris"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/a7965c6c-e790-415f-a69d-2fc5d7f149f8.jpg"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650839748401"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650839748401"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265d5a189274be4c644bd1b"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": " Dragon Ball Fighterz Edición Estándar para Xbox One Juego Físico",
+  "description": "Pasa con Dragon Ball FighterZ Xbox One increíbles horas de diversión y entretenimiento, porque este videojuego cuenta con fabulosos gráficos que harán de cada batalla algo inigualable. ",
+  "marca": "Arc System Works",
+  "purchasePrice": 479,
+  "salePrice": 259,
+  "colors": [
+    "Azul",
+    "Amarillo",
+    "Gris",
+    "Verde"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/52cd56d0-c755-49af-94b1-49906cf15814.jpg"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650840993864"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650840993864"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265e88b89274be4c644bd6a"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko - Figurine It Movie Chapter 2 - Pennywise with Blade Limited Pop 10cm - 0889698406321",
+  "description": "Figura It Movie Capítulo 2 - Pennywise With Blade Limited Pop- Matière Vinyl- Vendu en window",
+  "marca": "Funko",
+  "purchasePrice": 1159,
+  "salePrice": 799,
+  "colors": [
+    "Blanco",
+    "Naranja",
+    "Gris"
+  ],
+  "stock": 1,
+  "materials": [
+    "Plastico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/82235e4e-5f85-4789-93d7-e7e3e1bb6eae.jpg",
+    "/images/products/9d7b9cba-3e06-4f15-bf57-efdc8c7ab627.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650845835143"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650845835143"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266233289274be4c644be5d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c78"
+  },
+  "name": "Lenovo IdeaPad 3 Laptop, Pantalla HD+ de 17.3 Pulgadas, AMD Ryzen 5 5500U, 8 GB de RAM, Almacenamiento de 512 GB,",
+  "description": "El portátil IdeaPad 3 de 17 pulgadas es el portátil definitivo para el rendimiento en casa y más allá, construido con un procesador AMD Ryzen 5 5500U, 8 GB DDR4 RAM y 512 GB de almacenamiento SSD",
+  "marca": "Lenovo",
+  "purchasePrice": 15000,
+  "salePrice": 12000,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 1,
+  "materials": [
+    "Metal",
+    "Alumnio",
+    "Vidrio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/b1aed739-a4d0-4f97-b633-7ac630e619ad.jpg"
+  ],
+  "sizes": {
+    "width": 60,
+    "height": 50,
+    "depth": 4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650860850650"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650860850650"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62674f4b90cc4444bd1f92af"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Jump Force Standard Edition Bandai Namco PS4 Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2019.\r\nDesarrollado por Spike Chunsoft.\r\nGénero: pelea.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 598,
+  "salePrice": 448,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/14955506-7487-4a4c-af96-27215b70492d.webp",
+    "/images/products/190b67e5-be69-4211-bb4c-1d910f9f5b00.webp",
+    "/images/products/77cf08a2-7d40-4ee1-9dc1-f4d5573e45ef.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650937675972"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650937675972"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62675a9a90cc4444bd1f92cd"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Crash Bandicoot 4: It’s About Time Standard Edition Activision PS4 Físico",
+  "description": "Clasificación B.\r\nAño de lanzamiento: 2020.\r\nDesarrollado por Toys for Bob.\r\nGénero: acción y plataforma.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 700,
+  "salePrice": 450,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 12,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/987db332-bc82-48e8-ab36-d675d25ab6fe.webp",
+    "/images/products/3e3ce52c-0d62-4a96-8e88-c6eb40c76905.webp",
+    "/images/products/ddbe3ea6-10fe-41df-a2a2-5d868e588c2d.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650940570340"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650940570340"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267629390cc4444bd1f92d7"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Call of Duty: Vanguard Standard Edition Activision PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2021.\r\nDesarrollado por Sledgehammer Games.\r\nGénero: acción y disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Sledgehammer Games",
+  "purchasePrice": 1000,
+  "salePrice": 700,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/198db032-d8a9-4737-8088-994da0c8314d.webp",
+    "/images/products/0340beba-b82d-46b7-8934-cb81cf456dd2.webp",
+    "/images/products/e208cd35-05b0-4c4c-9e77-e925bfbcbf0e.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650942611655"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650942611655"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267726690cc4444bd1f934b"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Naruto Shippuden: Ultimate Ninja Storm 4 Road to Boruto Standard Edition Bandai Namco Xbox One Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2017.\r\nDesarrollado por CyberConnect2.\r\nGénero: acción, aventura y pelea.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.",
+  "marca": "Xbox One",
+  "purchasePrice": 680,
+  "salePrice": 500,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/edc8c930-99a9-415e-a841-661efb2b65e9.webp",
+    "/images/products/fcabc4d2-f635-4091-a24e-1cabe2b80b1a.webp",
+    "/images/products/b8ec6da8-bfbd-483b-9e8e-8f660c0172cd.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650946662282"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650946662282"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62677c7090cc4444bd1f936e"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "The Evil Within Bethesda Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2014.\r\nDesarrollado por Tango Gameworks.\r\nGénero: aventura, supervivencia y terror.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 600,
+  "salePrice": 300,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 17,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/cda99473-4d5e-41d6-802e-5eb2167beea2.webp",
+    "/images/products/85ba72f4-9541-42af-94b6-25870ca53a6f.webp",
+    "/images/products/aeab9932-d1d3-4af8-b281-8fa9b4159a59.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650949232617"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650949232617"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62677ffa90cc4444bd1f9382"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Destiny: The Taken King Legendary Edition Activision Xbox One Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2015.\r\nDesarrollado por Bungie.\r\nGénero: disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 530,
+  "salePrice": 340,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/38da5211-5856-4ea8-b5fd-b71867b2a59f.webp",
+    "/images/products/f489c094-3e16-407d-9ed5-dc8635796c2b.webp",
+    "/images/products/69a9f469-8071-4ee3-ba72-6683dcde455c.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650950138553"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650950138553"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626782bb90cc4444bd1f9396"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "The Witcher 3: Wild Hunt Complete Edition CD Projekt Red Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2016.\r\nDesarrollado por CD Projekt Red.\r\nGénero: acción, aventura y rpg.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 750,
+  "salePrice": 400,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 15,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/aff22596-d598-4412-ba5f-7f0e69a5a476.webp",
+    "/images/products/34441ed3-41e7-425a-85c3-157e74957bce.webp",
+    "/images/products/83eef5ab-5393-4111-a9c7-f98a057dbb5d.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650950843112"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650950843112"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62680097320aa7dd8739e023"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Burnout Paradise Remastered Electronic Arts Xbox One Físico",
+  "description": "Clasificación B.\r\nAño de lanzamiento: 2018.\r\nGénero: carreras.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "XboxOne",
+  "purchasePrice": 490,
+  "salePrice": 210,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/a3fc9f3e-1769-4199-8157-fcc412e166f0.webp",
+    "/images/products/d953826f-79a7-4546-a0b3-9a7b4c270b30.webp",
+    "/images/products/d61a5a82-fc45-4dc5-ae3b-238c07a8c9eb.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650983063903"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650983063903"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265dada89274be4c644bd35"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko Pop! Marvel: Spider-Man: No Way Home - Spider-Man in Upgraded Suit",
+  "description": "De Spider-Man: No Way Home, Spider-Man con traje mejorado, ¡como un Pop estilizado!\r\nSoportes coleccionables estilizados de 3 ¾ pulgadas de alto, ",
+  "marca": "Funko",
+  "purchasePrice": 329,
+  "salePrice": 199,
+  "colors": [
+    "Rojo",
+    "Azul"
+  ],
+  "stock": 1,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/f47114ed-28e7-4df7-906b-926a5a938534.jpg",
+    "/images/products/83e133ad-9f69-4434-9fbe-c5eba5982347.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.4
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650842330996"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650842330996"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266224c89274be4c644be4d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c78"
+  },
+  "name": "Asus VivoBook GO, 15.6\" HD, Celeron N4020, 8GB RAM, 128 SSD, Azul",
+  "description": "Windows 10 y Procesador Intel Celeron N4020\r\nCámara web VGA incorporada para clases o trabajo en línea desde cualquier lugar",
+  "marca": "ASUS",
+  "purchasePrice": 9000,
+  "salePrice": 7499,
+  "colors": [
+    "Gris"
+  ],
+  "stock": 1,
+  "materials": [
+    "Metal",
+    "Alumnio",
+    "Vidrio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/1d0dcdea-8a12-40ca-90ef-805945a854e3.jpg",
+    "/images/products/78f7f61d-a6a6-480e-aa7a-5bcc6c17a7ff.jpg"
+  ],
+  "sizes": {
+    "width": 70,
+    "height": 60,
+    "depth": 2
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650860620570"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650860620570"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6264dd3e40416e69960364fc"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Vention-Cable micro USB",
+  "description": "Vention-Cable micro USB recubierto en nailon para carga rápida, cables de datos de teléfono móvil, USB de tipo C de 3A para Samsung, Xiaomi, LG y Android",
+  "marca": "Vention",
+  "purchasePrice": 40,
+  "salePrice": 15,
+  "colors": [
+    "Negro",
+    "Gris",
+    "Blanco"
+  ],
+  "stock": 55,
+  "materials": [
+    "Alumnio",
+    "Metal"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/a7e352d1-ad9b-44d1-b005-683bd4f090f5.webp",
+    "/images/products/f6e4d417-e6e4-43d4-8fa4-7cb5bff9e633.webp",
+    "/images/products/1cc6b2f9-bcbe-4d04-814d-84e4f85c1bdb.webp"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 60,
+    "depth": 0.13
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650777406591"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650777406591"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626602fa89274be4c644bd7a"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Funko Pop! Star Wars: Across The Galaxy - K-2SO (Jedha)",
+  "description": "Este droide de la serie KX fue creado para realizar seguridad adicional para el Imperio Galáctico, aunque fue reprogramado para ayudar a la Alianza en su lucha contra el Imperio.",
+  "marca": "Funko",
+  "purchasePrice": 449,
+  "salePrice": 299,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 2,
+  "materials": [
+    "Alumnio",
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/0347c864-e2fc-4db0-9095-31b527369e58.jpg",
+    "/images/products/64f54fda-8946-4e92-9261-bc6d24211285.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650852602021"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650852602021"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266045a89274be4c644bd82"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "League of Legends Figura 10 Cm, Yasuo",
+  "description": "Llévate a casa a tu campeón favorito de League of Legends con la figura oficial de Yasuo de 10.2 cm. Yasuo, la Espada sin Honor, es un hábil espadachín.",
+  "marca": "Funko",
+  "purchasePrice": 250,
+  "salePrice": 99,
+  "colors": [
+    "Azul",
+    "Blanco",
+    "Gris",
+    "Negro",
+    "Naranja"
+  ],
+  "stock": 2,
+  "materials": [
+    "Alumnio",
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/1641870c-e26c-40f1-9e3e-b886938d561f.jpg",
+    "/images/products/05ba8c33-482d-4cbe-89c5-969ebf46e5cb.jpg"
+  ],
+  "sizes": {
+    "width": 20,
+    "height": 25,
+    "depth": 15
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650852954699"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650852954699"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626755ca90cc4444bd1f92be"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Street Fighter V Champion Edition Capcom PS4 Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2020.\r\nDesarrollado por Capcom.\r\nGénero: pelea.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 700,
+  "salePrice": 470,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 12,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/9b7fd304-6dbc-44ac-904a-f25691369614.webp",
+    "/images/products/e9e05393-661d-4518-b7ae-48b222a38dcb.webp",
+    "/images/products/c40b9e5c-d31f-4824-807f-f175f105a10f.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650939338855"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650939338855"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62677dc090cc4444bd1f9378"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Metro Exodus Standard Edition Deep Silver Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2019.\r\nDesarrollado por 4A Games.\r\nGénero: acción, aventura y disparos.\r\nSe encuentra disponible para jugar online.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 650,
+  "salePrice": 310,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/043f278a-8070-4be0-af13-c78bf47554da.webp",
+    "/images/products/0efaae5f-2b7a-43f4-baa1-e186b609c0f6.webp",
+    "/images/products/8e0cd1bc-38db-420c-902f-2eba694e1de2.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650949568492"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650949568492"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267811190cc4444bd1f938c"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Call of Duty: World War II Standard Edition Activision PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2017.\r\nDesarrollado por Sledgehammer Games.\r\nGénero: acción.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 1500,
+  "salePrice": 1200,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/f415ecf4-9a87-4d2d-9adf-baf7111884d1.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650950417659"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650950417659"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265dc7889274be4c644bd45"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko - Pop! Marvel: Avengers Endgame - Captain America with Broken Shield & Mjoinir Figurina de Colección, Multicolor, 45137",
+  "description": "De Avengers Endgame, Capitán América con escudo roto y Mjolnir, como vinilo POP estilizado de Funko.\r\nEl coleccionable estilizado es perfecto para cualquier fanático de Avengers Endgame.",
+  "marca": "Funko",
+  "purchasePrice": 291,
+  "salePrice": 159,
+  "colors": [
+    "Azul",
+    "Rosa"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/de6dbdc3-2b42-4a16-8f4c-558265633c76.jpg",
+    "/images/products/58273fd5-86fb-4839-8405-da6abdb08940.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650842744066"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650842744066"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266170b89274be4c644be25"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "McFarlane - Mortal Kombat Wave 6 - Kabal",
+  "description": "Figuras de escala increíblemente detalladas de 7 pulgadas basadas en la franquicia Mortal Kombat\r\nKabal aparece en su piel enganchada como se ve en Mortal Kombat 11",
+  "marca": "McFarlane",
+  "purchasePrice": 463,
+  "salePrice": 233,
+  "colors": [
+    "Verde",
+    "Gris"
+  ],
+  "stock": 3,
+  "materials": [
+    "Platico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/233d610b-5cf5-4c2e-b1c9-60dad9c18bfe.jpg",
+    "/images/products/f05e24cc-b8b2-45da-9429-69f7e1997789.jpg",
+    "/images/products/ba90bc04-62c9-47f7-9bee-40066b1f5662.jpg"
+  ],
+  "sizes": {
+    "width": 2.5,
+    "height": 17,
+    "depth": 5
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650857739391"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650857739391"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62662b7ef546fcd65a15fc15"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "The Last of Us Remastered Sony PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2014.\r\nDesarrollado por Naughty Dog.\r\nGénero: acción y aventura.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Naughty Dog",
+  "purchasePrice": 440,
+  "salePrice": 198,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 199,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/c58c9e87-d52b-4a7c-8d97-223c1fb56dfc.webp",
+    "/images/products/54007eff-5263-4f50-9ee6-71492ee5e733.webp",
+    "/images/products/d03a2576-46ce-4116-b4fa-f82890347594.webp"
+  ],
+  "sizes": {
+    "width": 7.5,
+    "height": 5.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650862974645"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650862974645"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626639f1f546fcd65a15fc38"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Watch Dogs: Legion Standard Edition Ubisoft PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2020.\r\nGénero: acción y aventura.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 400,
+  "salePrice": 250,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 6,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/185c2ec2-1e04-407a-83c2-3a69fd1ef892.webp",
+    "/images/products/e8ff43b9-9533-4a0b-b088-4bfebd8aa5ea.webp",
+    "/images/products/494a6a43-021c-48aa-848c-ca32bf644ce6.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650866673276"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650866673276"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626748d490cc4444bd1f92a5"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Dragon Ball: Xenoverse 2 Bandai Namco PS4 Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2016.\r\nDesarrollado por Dimps Corporation.\r\nGénero: pelea.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 300,
+  "salePrice": 100,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 17,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/7bb12d19-4b59-4b28-983b-9b393e6f69ee.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650936020179"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650936020179"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267567b90cc4444bd1f92c3"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "The King of Fighters XIV Standard Edition Atlus PS4 Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2016.\r\nDesarrollado por SNK.\r\nGénero: pelea.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 600,
+  "salePrice": 470,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 12,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/19d30a14-990a-4f4b-beff-e1ffdc9acae6.webp",
+    "/images/products/b2fe8050-9607-4589-bae9-2ea51bb58c39.webp",
+    "/images/products/d4751cc1-27f8-456a-85b0-2e51eb2b491d.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650939515935"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650939515935"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267650d90cc4444bd1f92ed"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Call of Duty: Black Ops Cold War Standard Edition Activision PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2020.\r\nDesarrollado por Treyarch, Raven Software, Sledgehammer Games, Beenox, High Moon Studios.\r\nGénero: disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\n",
+  "marca": "PS4",
+  "purchasePrice": 1300,
+  "salePrice": 900,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/af8b42bd-a68b-4b32-ae9e-1b3d441c8bdc.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650943245356"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650943245356"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267751a90cc4444bd1f9350"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Watch Dogs: Legion Standard Edition Ubisoft Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2020.\r\nGénero: acción y aventura.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 400,
+  "salePrice": 270,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/06337921-a1f2-4d9b-b180-7632492bc247.webp",
+    "/images/products/22af09d2-e00f-4ba8-9b15-806a4813a492.webp",
+    "/images/products/93df8eaa-a251-4fd2-bb1c-99d627d96533.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650947354105"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650947354105"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626779af90cc4444bd1f9364"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Marvel's Avengers Standard Edition Square Enix Xbox One Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2020.\r\nDesarrollado por Crystal Dynamics, Eidos, Nixxes Software.\r\nGénero: acción y aventura.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 540,
+  "salePrice": 300,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 17,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/ce749cdb-6e8d-4923-9504-ef99a0fd13bb.webp",
+    "/images/products/269d9221-7e8d-4ce1-988e-1446f570c87f.webp",
+    "/images/products/e649b839-6c38-4a69-b2cf-d075633ca1fb.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650948527473"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650948527473"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62677cef90cc4444bd1f9373"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Resident Evil: Origins Collection Capcom Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2016.\r\nGénero: supervivencia y terror.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 530,
+  "salePrice": 300,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 17,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/73ebdbba-7cfd-4b85-8375-f1d25df809b1.webp",
+    "/images/products/f89e01ee-07b7-4488-b251-8d5f5189aef6.webp",
+    "/images/products/f214e797-bb46-4ef3-9d5f-f48dc1030239.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650949359589"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650949359589"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265c30f89274be4c644bc7b"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Kingston-tarjeta MicroSD",
+  "description": "Kingston-tarjeta MicroSD  16GB, 128GB, 64GB, 32GB, Class10, TF, MicroSDHC, SDXC, UHS-1, 4G, 8GB, Class4",
+  "marca": "Kingston",
+  "purchasePrice": 160,
+  "salePrice": 90,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 12,
+  "materials": [
+    "Plastico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/264cf1dc-b165-4465-95a9-933d8d666a30.jpg",
+    "/images/products/ab5be9bd-08c7-4ff4-bcd6-9ae153317e67.webp"
+  ],
+  "sizes": {
+    "width": 2.5,
+    "height": 3,
+    "depth": 0.005
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650836239825"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650836239825"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265cd2889274be4c644bcbe"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": " Forza Horizon 5 para Xbox Series X y Xbox One físico",
+  "description": "Forza Horizon 5 es un videojuego de carreras multijugador en línea desarrollado por Playground Games y publicado por Xbox Game Studios. Es el quinto título de Forza Horizon y la duodécima entrega principal de la serie Forza.​​​",
+  "marca": "Playground Games",
+  "purchasePrice": 899,
+  "salePrice": 399,
+  "colors": [
+    "Rojo",
+    "Azul",
+    "Verde"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/151dff1d-c1fc-4af1-b007-007e4c639786.jpg"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650838824075"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650838824075"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265cecd89274be4c644bcd5"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Fifa 21 Edición Regular para Xbox One Juego Físico",
+  "description": "Gana en equipo con EA SPORTS FIFA 21 con nuevas maneras de jugar en equipo y expresar cómo eres en la calle y en el estadio. Desarrollado con Frostbite, FIFA 21 eleva el juego con nuevas características que te permiten",
+  "marca": "Electronic Arts",
+  "purchasePrice": 899,
+  "salePrice": 499,
+  "colors": [
+    "Verde",
+    "Rosa",
+    "Azul"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/ee6b43a5-888a-4c61-89bb-60a407a3c5dc.png"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650839245516"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650839245516"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265e9d589274be4c644bd74"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko Pop! Iron Man 2: Iron Man MKIV con pórtico Que Brilla en la Oscuridad, Figura de Vinilo de Lujo",
+  "description": "Sticker Special Edition, Brilla en la oscuridad, Sticker Limited Edition\r\nCaja: 16.5 X 14 X 20.5 cm\r\nFigura de Vinil\r\nTony Stark viene con sus máquinas y base.",
+  "marca": "Funko",
+  "purchasePrice": 682,
+  "salePrice": 499,
+  "colors": [
+    "Rojo",
+    "Amarillo"
+  ],
+  "stock": 1,
+  "materials": [
+    "Plastico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/1ec03bf6-1bc9-4d49-8d81-ad2415451aaa.jpg",
+    "/images/products/262cd375-35df-432a-9fb0-55307e091aae.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.5
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650846165623"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650846165623"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266160989274be4c644be12"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Nerf 6-SH de Fortnite",
+  "description": " El lanzador 6-SH de Nerf Fortnite está inspirado en el equipo que se usa en Fortnite y reproduce fielmente el envoltorio Camo Pulse del popular videojuego",
+  "marca": "Nerf",
+  "purchasePrice": 484,
+  "salePrice": 255,
+  "colors": [
+    "Naranja",
+    "Negro"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/e443e60b-e226-482d-9028-22b29ba1a378.jpg",
+    "/images/products/756bdd77-0bac-4707-9192-16b9e57a3474.jpg"
+  ],
+  "sizes": {
+    "width": 35,
+    "height": 22,
+    "depth": 6.7
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650857481395"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650857481395"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267574990cc4444bd1f92c8"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Street Fighter V Arcade Edition Capcom PS4 Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2016.\r\nDesarrollado por Capcom.\r\nGénero: pelea.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 900,
+  "salePrice": 600,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 12,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/a92b4650-a473-423f-b8a2-336310b871f4.webp",
+    "/images/products/7798fd73-058c-4292-a576-0d89f4e683cd.webp",
+    "/images/products/84398e6a-f415-4d63-bfae-7a8671b9056e.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650939721427"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650939721427"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267669f90cc4444bd1f92f7"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Dark Souls: Remastered Bandai Namco PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2018.\r\nDesarrollado por FromSoftware.\r\nGénero: acción y rpg.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.",
+  "marca": "PS4",
+  "purchasePrice": 600,
+  "salePrice": 300,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/b3a36f0d-b88c-497c-82b0-c8659ec6aaec.webp",
+    "/images/products/c6b48d70-a1da-4d71-ae11-b43063b5bc17.webp",
+    "/images/products/06327be8-e25e-49a1-953f-37851fedf199.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650943647680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650943647680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626785b390cc4444bd1f93a0"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Star Wars: Battlefront II (2017) Standard Edition Electronic Arts Xbox One Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2017.\r\nDesarrollado por DICE.\r\nGénero: acción y disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 500,
+  "salePrice": 210,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 15,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/1adc4c8a-d318-4424-a3d5-0f109e1b6808.webp",
+    "/images/products/97db74ed-7b59-4257-9348-c6a4c7256743.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650951603594"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650951603594"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62663344f546fcd65a15fc28"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Borderlands 3 2K Games PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2019.\r\nDesarrollado por Gearbox Software.\r\nGénero: rpg y disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 300,
+  "salePrice": 146,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 6,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/9cfc2a07-9ae2-40f0-b943-37e066baf3cb.webp",
+    "/images/products/2763a7d4-5859-4af1-b97b-3d941e4a77b0.webp",
+    "/images/products/ea145a29-dacf-4b24-8623-1cc318b02189.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650864964682"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650864964682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266423ef546fcd65a15fc6b"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Resident Evil 5 Standard Edition Capcom PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2016.\r\nDesarrollado por Capcom.\r\nGénero: acción, aventura y disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada",
+  "marca": "PS4",
+  "purchasePrice": 560,
+  "salePrice": 398,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/da9bad6b-d479-4c08-9697-982bb0e6fafc.webp",
+    "/images/products/5acb7575-ca14-4605-866b-9e694a19e50a.webp",
+    "/images/products/88da8f76-5907-4606-ab78-377cde440526.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650868798016"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650868798016"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267649e90cc4444bd1f92e8"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Call of Duty: Modern Warfare Standard Edition Activision PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2019.\r\nDesarrollado por Infinity Ward.\r\nGénero: disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 1200,
+  "salePrice": 900,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 12,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/f323661b-f5bd-4dfc-aaac-366a69adf756.webp",
+    "/images/products/8ac61349-ba37-4dc7-9478-4c87cd6d8e10.webp",
+    "/images/products/d6b0e620-f329-4aec-b37d-9df5e7b7bc14.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650943134606"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650943134606"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62676e2890cc4444bd1f932a"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Detroit: Become Human Sony PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2018.\r\nDesarrollado por Quantic Dream.\r\nGénero: acción y aventura.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 550,
+  "salePrice": 330,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 15,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/0b0de9b6-fa1d-42aa-8d02-7af25b536624.webp",
+    "/images/products/6b14bbe1-a087-4469-b604-aa0ed7ba981e.webp",
+    "/images/products/031c222a-dc6f-48a5-9a04-e78e71492f50.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650945576151"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650945576151"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62680103320aa7dd8739e028"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Forza Motorsport 7 Standard Edition Microsoft Xbox One Digital",
+  "description": "Clasificación A.\r\nAño de lanzamiento: 2017.\r\nDesarrollado por Turn 10 Studios.\r\nGénero: carreras.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "XboxOne",
+  "purchasePrice": 990,
+  "salePrice": 560,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 19,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/394cb817-e055-4597-a492-044c443f261b.webp",
+    "/images/products/483acb1b-5957-4e59-b1b9-995cc037228d.webp",
+    "/images/products/822b8c32-33ca-4b01-b59b-4f8bc1d05753.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650983171370"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650983171370"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265b64b89274be4c644bc25"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Mando de PC para Xbox 360, mando con cable USB, doble vibración, para Windows",
+  "description": "1. Controlador con cable de precisión para Microsoft para Xbox para sistema de juego 360\r\n2. Para Windows 7/8/10 /vista/XP\r\n3. Un reemplazo perfecto o un controlador adicional \r\n4. Dispositivo Compatible: para xbox 360 y PC",
+  "marca": "Generico",
+  "purchasePrice": 360,
+  "salePrice": 200,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/7d6d476e-2cc3-4e6b-b916-f38cb2a8e8af.webp",
+    "/images/products/cb055c50-6684-4f3e-9fe5-fe66e589a27e.webp"
+  ],
+  "sizes": {
+    "width": 22,
+    "height": 15,
+    "depth": 4
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650832971848"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650832971848"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265bec989274be4c644bc53"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Cable de carga Usb doble magnético antiinterferencias",
+  "description": "Cable de carga Usb doble magnético antiinterferencias, 1,8 m, Mando de juego, Cable de carga para mando de Xbox 360",
+  "marca": "Generico",
+  "purchasePrice": 150,
+  "salePrice": 70,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 10,
+  "materials": [
+    "Metal",
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/cd804fca-79c3-4333-b9c9-a73315733f8b.webp",
+    "/images/products/96d68158-9f5e-46b2-910e-f6299c993963.webp"
+  ],
+  "sizes": {
+    "width": 5,
+    "height": 120,
+    "depth": 0.7
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650835145733"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650835145733"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6264de2240416e6996036504"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Mouse",
+  "description": "Ratón con cable USB para oficina y hogar, Mouse silencioso Simple ultrafino para ordenador de escritorio, portátil, para juegos y deporte electrónico.",
+  "marca": "MIHUN",
+  "purchasePrice": 60,
+  "salePrice": 27,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 23,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/56d38d86-b610-47ba-9329-49e03b08b4f1.webp"
+  ],
+  "sizes": {
+    "width": 7,
+    "height": 70,
+    "depth": 3
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650777634772"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650777634772"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265b77989274be4c644bc2d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Lenovo-altavoz Portátil con Bluetooth L01",
+  "description": "Lenovo-altavoz Portátil con Bluetooth L01, reproductor de música inalámbrico con sonido estéreo, sonido envolvente, caja de bajos, resistente al agua",
+  "marca": "Lenovo",
+  "purchasePrice": 250,
+  "salePrice": 120,
+  "colors": [
+    "Azul",
+    "Blanco",
+    "Gris"
+  ],
+  "stock": 6,
+  "materials": [
+    "Alumnio",
+    "Metal"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/9c25759a-cdb0-4829-b67b-ae51b810e1ba.webp",
+    "/images/products/52706ba0-f3a6-433c-bfcc-6f55433791a8.webp"
+  ],
+  "sizes": {
+    "width": 10,
+    "height": 15,
+    "depth": 9
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650833273626"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650833273626"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265c08e89274be4c644bc6b"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Batería recargable de 4X",
+  "description": "Batería recargable de 4X 1200mah + cargador USB para Xbox Series S/X/Xbox One S/X, paquete de batería para Xbox One Controller",
+  "marca": "BEBONCOOL",
+  "purchasePrice": 380,
+  "salePrice": 199,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 6,
+  "materials": [
+    "Alumnio",
+    "Metal",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/7c2baab1-13a5-4a63-9b4c-2781cae9311d.webp"
+  ],
+  "sizes": {
+    "width": 10,
+    "height": 10,
+    "depth": 4
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650835598107"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650835598107"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62660b8489274be4c644bdca"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Mega Construx Halo, Arbiter's Quest, Juguete de Construcción para niños de 8 años en adelante",
+  "description": "Set de construcción de aviones Banshee Covenant con figura de cabina y escotilla que se cierra y piezas adicionales para crear tu propia variante Banshee en morado o en dorado​",
+  "marca": " Mega Construx",
+  "purchasePrice": 555,
+  "salePrice": 255,
+  "colors": [
+    "Gris",
+    "Blanco",
+    "Morado",
+    "Rojo"
+  ],
+  "stock": 1,
+  "materials": [
+    "Platico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/3e5ad7ca-2a7c-472e-8e5e-0c485e9dfa46.jpg",
+    "/images/products/3eb96a16-4ac3-4787-99f6-b33e586de5e0.jpg",
+    "/images/products/5c1cce3f-f11e-44c0-bac4-b96e4f0e5ef8.jpg"
+  ],
+  "sizes": {
+    "width": 50,
+    "height": 60,
+    "depth": 25
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650854788123"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650854788123"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62662d62f546fcd65a15fc1d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "RedDead Redemption 2 Standard Edition Rockstar Games PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2018.\r\nDesarrollado por Rockstar Games.\r\nGénero: acción y aventura.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 600,
+  "salePrice": 500,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 6,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/348d9446-1cab-43cb-81fc-77bbee818673.webp",
+    "/images/products/84fdd96a-a3db-4dfa-9932-d9e9a2c44bba.webp",
+    "/images/products/3ef4550c-8093-4110-8061-ce5fc78ceddc.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650863458454"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650863458454"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626750d890cc4444bd1f92b4"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Marvel vs. Capcom: Infinite Standard Edition Capcom PS4 Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2019.\r\nDesarrollado por Spike Chunsoft.\r\nGénero: pelea.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 400,
+  "salePrice": 200,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 15,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/6d015a36-1273-4149-9355-5b580ad96771.webp",
+    "/images/products/3af2ffcf-52cc-45e8-abd3-77c8bea82d88.webp",
+    "/images/products/1562a00f-b32a-45ca-bf1b-8fe2ba775c8a.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650938072866"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650938072866"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626754d190cc4444bd1f92b9"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Street Fighter 30th Anniversary Collection Standard Edition Capcom PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2018.\r\nGénero: pelea.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 400,
+  "salePrice": 200,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 15,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/59d6b21d-edb1-4a4e-bdbc-eb0ea559edc1.webp",
+    "/images/products/ac0e608f-72a1-40a3-ad9c-57fa58f4e089.webp",
+    "/images/products/7b01778a-2fdd-41e1-8a8b-78b8bd9ed860.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650939089463"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650939089463"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267682190cc4444bd1f9301"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Sekiro: Shadows Die Twice Standard Edition Activision PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2019.\r\nDesarrollado por FromSoftware.\r\nGénero: acción y aventura.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 850,
+  "salePrice": 570,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/97050e88-f5e6-4d6a-aa8f-b7e3b4480101.webp",
+    "/images/products/a4079f02-e11c-493d-893a-c139f93de8ae.webp",
+    "/images/products/e5f16f7b-df63-466d-a918-463ce9c0872d.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650944033549"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650944033549"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267772f90cc4444bd1f9355"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Doom Eternal Standard Edition Bethesda Xbox One Físico",
+  "description": "o que tienes que saber de este producto\r\nClasificación C.\r\nAño de lanzamiento: 2020.\r\nDesarrollado por id Software.\r\nGénero: acción y disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\n",
+  "marca": "Xbox One",
+  "purchasePrice": 700,
+  "salePrice": 416,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/91f15dc6-df38-4318-a789-10c0ece84208.webp",
+    "/images/products/9e90e0f3-1b85-4fb6-86fa-0eb78072574e.webp",
+    "/images/products/21988554-25c5-4aa0-8eb0-e9916f6e32a6.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650947887319"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650947887319"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267787090cc4444bd1f935f"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "LEGO Marvel Super Heroes Warner Bros. Xbox One Físico",
+  "description": "Clasificación B.\r\nAño de lanzamiento: 2013.\r\nDesarrollado por TT Games.\r\nGénero: aventura y plataforma.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.",
+  "marca": "Xbox One",
+  "purchasePrice": 550,
+  "salePrice": 300,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/ba36ffba-2636-4e0f-a77b-29a3276c7260.webp",
+    "/images/products/4f986476-2237-45e6-adac-a725bff95b19.webp",
+    "/images/products/f19bfe01-b1f4-4105-bcd4-dbad9807623f.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650948208727"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650948208727"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265e1d289274be4c644bd4d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Funko Pop Incredibles 2 Jack-Jack Chrome Variant Figure 367",
+  "description": "¡Tu familia favorita de superhéroes está de vuelta en Incredibles 2!B07DKT2YDT\r\n¡Tu familia favorita de superhéroes está de vuelta en Incredibles 2!",
+  "marca": "Funko",
+  "purchasePrice": 929,
+  "salePrice": 729,
+  "colors": [
+    "Rojo"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico",
+    "Metal",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/f410c2b6-d43f-4d44-a725-a60f5ae3d17b.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650844114203"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650844114203"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266072489274be4c644bda2"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko Pop! Deluxe: Mandalorian - Mandalorian on Bantha with Child",
+  "description": "De Mandalorian, Mandalorian en Bantha with Child, ¡como un pop estilizado! De lujo.\r\nSoportes coleccionables estilizados de 5 pulgadas de alto, perfectos para cualquier fanático de Mandalorian",
+  "marca": "Funko",
+  "purchasePrice": 549,
+  "salePrice": 347,
+  "colors": [
+    "Rojo",
+    "Gris",
+    "Verde"
+  ],
+  "stock": 1,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/998b460e-8608-44a9-96dc-7d0a0eba7628.jpg",
+    "/images/products/e8032a93-5813-4653-a304-a82d00ea7ba1.jpg"
+  ],
+  "sizes": {
+    "width": 12.7,
+    "height": 7.6,
+    "depth": 7.6
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650853668193"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650853668193"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62663f78f546fcd65a15fc58"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Resident Evil 4 Capcom PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2016.\r\nDesarrollado por Capcom.\r\nGénero: supervivencia y disparos.\r\nTamaño del archivo: 2 GB.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Capcom",
+  "purchasePrice": 550,
+  "salePrice": 300,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/c2b1a964-16e2-4412-8176-2ae0fe076391.webp",
+    "/images/products/4bcab6b5-5e0f-442c-a4fc-d62819c1ffbc.webp",
+    "/images/products/46e168dd-0f91-472f-864d-f8cf99801786.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650868088360"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650868088360"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626769ef90cc4444bd1f9316"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Shadow of the Colossus (PS4 Remake) Standard Edition Sony PS4 Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2018.\r\nDesarrollado por Bluepoint Games, Japan Studio.\r\nGénero: acción y aventura.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 1000,
+  "salePrice": 700,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 19,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/5475315a-b059-4721-92c7-bacb6b1d4e3d.webp",
+    "/images/products/b2210674-3cf5-4817-a501-87fc2d3de161.webp",
+    "/images/products/91a57fee-4193-4e72-9ab4-72ab4afd42a0.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650944495781"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650944495781"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62676a6f90cc4444bd1f931b"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Bloodstained: Ritual of the Night 505 Games PS4 Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2019.\r\nDesarrollado por ArtPlay.\r\nGénero: plataforma, rpg, acción y aventura.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 500,
+  "salePrice": 327,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 18,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/6cab9d8b-e285-4c82-9922-2a6d0c18dfd5.webp",
+    "/images/products/964b3d4c-7076-4fa7-92b9-88d365a8ea24.webp",
+    "/images/products/99745f05-fbe0-4f38-959c-d3d36e03a81c.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650944623276"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650944623276"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265d4e189274be4c644bd13"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Halo 5 Guardians Edición Estándar para Xbox One Juego Digital",
+  "description": "Halo 5: Guardians ofrece experiencias multijugador épicas que incluyen distintos modos, completas herramientas de construcción de niveles y un nuevo capítulo en la saga del Jefe Maestro.",
+  "marca": "343 Industries",
+  "purchasePrice": 499,
+  "salePrice": 299,
+  "colors": [
+    "Gris",
+    "Verde",
+    "Negro"
+  ],
+  "stock": 3,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/ec421312-4057-440e-8860-8329b408ee16.jpg"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650840801025"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650840801025"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266091589274be4c644bdba"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko Pop! Movies. Dune - Duncan Idaho",
+  "description": "¡De Dune, Duncan Idaho, como un pop estilizado!\r\nSoportes coleccionables estilizados de 3 ¾ pulgadas de alto, ¡perfectos para cualquier fanático de Dune!\r\n¡Colecciona y muestra todos los Dune POP! Vinilos!",
+  "marca": "Funko",
+  "purchasePrice": 590,
+  "salePrice": 399,
+  "colors": [
+    "Gris",
+    "Rosa"
+  ],
+  "stock": 1,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/34f843cc-f77b-454a-b429-9592abece2f7.jpg"
+  ],
+  "sizes": {
+    "width": 7.6,
+    "height": 9.5,
+    "depth": 7.6
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650854165318"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650854165318"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626613a389274be4c644be0a"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Fortnite Legendary Series - Paquete de Figuras de 6 Pulgadas, 8 Bolas",
+  "description": "La figura de acción de 8 bolas de 6 pulgadas cuenta con caras intercambiables, más de 36 puntos de articulación y decoración muy detallada inspirada en uno de los trajes más populares de Epic Games' Fortnite.",
+  "marca": "Fornite",
+  "purchasePrice": 604,
+  "salePrice": 399,
+  "colors": [
+    "Blanco",
+    "Negro"
+  ],
+  "stock": 2,
+  "materials": [
+    "Alumnio",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/8335b8d7-9b3c-41af-a9cf-562d9294550f.jpg",
+    "/images/products/f48d743f-ccde-4bb6-a817-da093c7aa520.jpg"
+  ],
+  "sizes": {
+    "width": 5.7,
+    "height": 20,
+    "depth": 12
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650856867339"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650856867339"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266190d89274be4c644be45"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "QMx Quantum Mechanix Mortal Kombat Scorpion Q-Fig",
+  "description": "Dicen que no puedes mantener a un buen hombre abajo. Bueno, sin duda no puedes mantener a este ninja infierno hacia abajo, tampoco.",
+  "marca": "QMx",
+  "purchasePrice": 505,
+  "salePrice": 255,
+  "colors": [
+    "Azul",
+    "Verde",
+    "Amarillo"
+  ],
+  "stock": 4,
+  "materials": [
+    "Alumnio",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/3866de2e-1482-4af4-a47b-b3a8b76c86d9.jpg",
+    "/images/products/49709c41-c097-4b77-a10f-137cc5868e45.jpg",
+    "/images/products/9cefd402-462f-46e2-be5a-eb9ff04cdb49.jpg"
+  ],
+  "sizes": {
+    "width": 8,
+    "height": 11,
+    "depth": 9
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650858253126"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650858253126"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626622cb89274be4c644be55"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c78"
+  },
+  "name": "HP Laptop 240 G8 Celeron N4020 Dual Core 4GB 500GB 14",
+  "description": "DISEÑADA PARA TRABAJAR Y LISTA PARA LA DIVERSIÓN Conéctese con la laptop HP 240 gracias a la potente tecnología y un chasis optimizado que es fácil de transportar a donde vaya. ",
+  "marca": "HP",
+  "purchasePrice": 7000,
+  "salePrice": 5500,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 1,
+  "materials": [
+    "Alumnio",
+    "Metal",
+    "Vidrio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/a8673d01-b76f-4c55-bc03-9d9fb43a8749.jpg",
+    "/images/products/7c545744-ba80-4694-a931-77845cdf6442.jpg"
+  ],
+  "sizes": {
+    "width": 70,
+    "height": 60,
+    "depth": 2
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650860747971"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650860747971"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626623f189274be4c644be6d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c78"
+  },
+  "name": "LG Gram 2 en 1 16 pulgadas IPS LCD WQXGA (2560 x 1600) pantalla táctil Intel Evo Platform Laptop",
+  "description": "Plataforma Intel Evo alimentada por procesador Intel Core i7-1165G7 de 11ª generación de 2.8 GHz\r\n16 GB LPDDR4X 4266 MHz RAM",
+  "marca": "LG",
+  "purchasePrice": 20000,
+  "salePrice": 16999,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 1,
+  "materials": [
+    "Alumnio",
+    "Metal",
+    "Vidrio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/0a75ccc9-813f-409a-8a5a-4fe5c7dff4b6.jpg",
+    "/images/products/c8555ef6-9d17-4f96-8bca-00ff3875c454.jpg"
+  ],
+  "sizes": {
+    "width": 70,
+    "height": 60,
+    "depth": 3
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650861041015"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650861041015"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626634dff546fcd65a15fc30"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Tom Clancy's Ghost Recon Breakpoint Standard Edition Ubisoft PS4 Físico",
+  "description": "Año de lanzamiento: 2019.\r\nDesarrollado por Ubisoft.\r\nGénero: disparos y aventura.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 400,
+  "salePrice": 267,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 7,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/36135ea2-7e28-42ce-ae12-b483a5aeb2a6.webp",
+    "/images/products/cdc3ad76-1d1e-4a7b-9ac8-cf9b5b911d34.webp",
+    "/images/products/31551b0d-d6ad-4e60-a92c-b315eb687919.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650865375670"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650865375670"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62677a1c90cc4444bd1f9369"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Dragon Ball Z: Kakarot Standard Edition Bandai Namco Xbox One Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2020.\r\nDesarrollado por CyberConnect2.\r\nGénero: acción y aventura.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 400,
+  "salePrice": 220,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 17,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/3fa916c0-863c-4392-bcfa-c227476314f7.webp",
+    "/images/products/5dc2866c-7a85-425c-8eb9-c37f8509f283.webp",
+    "/images/products/629d9968-7f9a-42c7-9db8-52137180d631.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650948636622"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650948636622"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267876590cc4444bd1f93aa"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Resident Evil Resident Evil: Revelations Capcom Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2017.\r\nDesarrollado por Capcom.\r\nGénero: acción, aventura y terror.\r\nEntretenimiento digital.\r\nDiversión asegurad",
+  "marca": "Xbox One",
+  "purchasePrice": 750,
+  "salePrice": 460,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 18,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/e3233dfa-d370-4bac-a3aa-21a5769e0f00.webp",
+    "/images/products/f4538d91-e4fd-48e8-be68-e3d7c114e8e2.webp",
+    "/images/products/b03ad9df-4973-499f-80e9-be077820b7ad.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650952037695"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650952037695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265ad0a89274be4c644bc0d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "WeeVnn-Lector de tarjetas Micro SD OTG",
+  "description": "WeeVnn-Lector de tarjetas Micro SD OTG, lector de tarjetas USB 2,0, 2,0 para adaptador USB Micro SD, unidad Flash, lector de tarjetas de memoria inteligente",
+  "marca": "WeeVnn",
+  "purchasePrice": 80,
+  "salePrice": 40,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 16,
+  "materials": [
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/123a0d78-8d5a-4a0a-bc5a-c9ce61188b4e.webp",
+    "/images/products/3094e41c-c366-43c0-b758-21e190fc6f36.webp"
+  ],
+  "sizes": {
+    "width": 3,
+    "height": 7,
+    "depth": 2
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650830602990"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650830602990"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265d6ed89274be4c644bd25"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Resident Evil 7: Biohazard Edición Estándar para Xbox One Juego Físico",
+  "description": "Resident Evil 7: Biohazard, conocido originalmente en Japón como Biohazard 7: Resident Evil es un videojuego perteneciente al género de horror de supervivencia, desarrollado y publicado por Capcom",
+  "marca": "Capcom",
+  "purchasePrice": 729,
+  "salePrice": 399,
+  "colors": [
+    "Negro",
+    "Gris",
+    "Naranja"
+  ],
+  "stock": 3,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/281d8460-8ad8-479f-b857-87d4bd3ccf9b.jpg"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650841325324"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650841325324"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62660c0f89274be4c644bdd2"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": " Pasa el mouse encima de la imagen para aplicar zoom Halo 4\" \"World HLW0002 Jefe Maestro con Rifle de Asalto",
+  "description": "Cuenta con 1 figura principal principal, 1 accesorio para rifle de asalto y 1 soporte de terreno.\r\nLa figura del jefe principal está totalmente articulada para una máxima jugabilidad y posibilidad de posar\r\nCada figura de \"World of Halo\" se escalan entre sí",
+  "marca": "Halo",
+  "purchasePrice": 529,
+  "salePrice": 299,
+  "colors": [
+    "Verde",
+    "Negro"
+  ],
+  "stock": 2,
+  "materials": [
+    "Alumnio",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/b33587c5-c94c-47c3-a72b-853f53658fef.jpg",
+    "/images/products/e457dc00-5773-4343-8576-c96430577771.jpg",
+    "/images/products/d7e8e109-407f-4a1b-b93c-436bedeb24bf.jpg"
+  ],
+  "sizes": {
+    "width": 4.5,
+    "height": 13,
+    "depth": 4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650854927584"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650854927584"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62660d3989274be4c644bdda"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Halo Figura y vehículo World de 4 Pulgadas, mangosta con Jefe Maestro",
+  "description": "Cuenta con 1 figura Master Chief, 1 figura de vehículo Mongoose, 1 accesorio SPNKr Rocket Launcher, 1 soporte de terreno.\r\nAmbas figuras están totalmente articuladas para una máxima jugabilidad y posibilidad de posar",
+  "marca": "Halo",
+  "purchasePrice": 830,
+  "salePrice": 469,
+  "colors": [
+    "Verde",
+    "Gris"
+  ],
+  "stock": 1,
+  "materials": [
+    "Platico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/90c61a5a-4855-4803-8d89-fe1cfa485a55.jpg",
+    "/images/products/c683f46c-43e8-4187-88ed-2abcc72fb0d0.jpg",
+    "/images/products/e54964b5-443a-4776-812e-152012803c0f.jpg"
+  ],
+  "sizes": {
+    "width": 10,
+    "height": 30,
+    "depth": 20
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650855225922"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650855225922"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266103e89274be4c644bdf4"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "League of Legends Figura 15 Cm, Tresh",
+  "description": "Llévate a casa a tu campeón favorito de League of Legends con la figura oficial de Thresh de 15.2 cm. Sádico y astuto, Thresh es un ambicioso y trastornado espíritu de las Islas de la Sombra. ",
+  "marca": "league of legends",
+  "purchasePrice": 564,
+  "salePrice": 399,
+  "colors": [
+    "Negro",
+    "Verde"
+  ],
+  "stock": 2,
+  "materials": [
+    "Alumnio",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/e9d1bf05-2e89-4e60-b09c-5b21a68f485a.jpg",
+    "/images/products/b581f271-147c-48e7-88c2-cd2659c620fd.jpg",
+    "/images/products/735a5889-82e8-43fc-a8ab-0964d33589b2.jpg"
+  ],
+  "sizes": {
+    "width": 20,
+    "height": 25,
+    "depth": 15
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650855998819"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650855998819"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266244e89274be4c644be75"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c78"
+  },
+  "name": "HUAWEI MateBook D 14 - Laptop de 14'', Procesador Intel i3, Memoria de 256 GB ROM+8 GB RAM, Windows 10, Gris",
+  "description": "Portátil ultradelgado de 14 pulgadas con pantalla FullView\r\nProcesador Intel Core de décima generación\r\nCon un acabado metálico y un grosor de 15,9 mm.\r\nWindows 10 HOME Edition",
+  "marca": "HUAWEI",
+  "purchasePrice": 12300,
+  "salePrice": 9000,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 1,
+  "materials": [
+    "Alumnio",
+    "Vidrio",
+    "Metal"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/98545324-94c7-49ed-b55a-15183be696db.jpg",
+    "/images/products/06091341-1281-45db-8876-5d876b1eb875.jpg"
+  ],
+  "sizes": {
+    "width": 60,
+    "height": 50,
+    "depth": 2
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650861134538"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650861134538"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62663ea1f546fcd65a15fc50"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Resident Evil: Origins Collection Capcom PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2016.\r\nDesarrollado por Capcom.\r\nGénero: supervivencia y terror.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 600,
+  "salePrice": 350,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/8ab59bd9-34ae-4d96-8fb2-7c2e5aea5e68.webp",
+    "/images/products/969d166e-de6f-4a1e-af55-49cc6080b93e.webp",
+    "/images/products/5d52a53e-cff9-4469-9648-3be7aad4046a.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650867873288"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650867873288"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62674e8b90cc4444bd1f92aa"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Dragon Ball FighterZ Standard Edition Bandai Namco PS4 Físico",
+  "description": "Clasificación B15.\r\nDesarrollado por Arc System Works.\r\nGénero: pelea.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 400,
+  "salePrice": 200,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 15,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/478c82eb-7b86-4a1c-af81-4722abaf23f1.webp",
+    "/images/products/98ff5783-f7da-4dd1-96ec-34802773eb2f.webp",
+    "/images/products/b2920d4c-dc11-4bc4-9174-7ed9df39ac95.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650937483965"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650937483965"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62675b3690cc4444bd1f92d2"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Crash Team Racing: Nitro-Fueled Standard Edition Activision PS4 Físico",
+  "description": "Clasificación A.\r\nAño de lanzamiento: 2019.\r\nDesarrollado por Beenox.\r\nGénero: carreras.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 900,
+  "salePrice": 620,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/6d9e9216-3d59-4ce5-9b2f-172db2ce3a25.webp",
+    "/images/products/fb504f8f-72e5-4f81-a4e4-3cc99dd9a7b9.webp",
+    "/images/products/da6c1d49-b913-49ac-973f-fdf1ed1c5f2e.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650940726218"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650940726218"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267658b90cc4444bd1f92f2"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Shadow of the Tomb Raider Standard Edition Square Enix PS4 Físico",
+  "description": "Clasificación C.\r\nGénero: acción y aventura.\r\nEntretenimiento digital.\r\nDiversión asegurada.\r\n",
+  "marca": "PS4",
+  "purchasePrice": 400,
+  "salePrice": 300,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/551b64d5-e4d7-4847-b3a7-2a5a5be5634e.webp",
+    "/images/products/90c8498c-f459-4a7c-bf7a-ac1442418077.webp",
+    "/images/products/802f4235-a780-4bf4-9bff-6391a58c17f7.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650943371488"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650943371488"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267780890cc4444bd1f935a"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Tom Clancy's Rainbow Six Siege Standard Edition Ubisoft Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2015.\r\nGénero: disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 650,
+  "salePrice": 450,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/af298c9f-7724-4c4f-a3bc-332eb4426d68.webp",
+    "/images/products/fa67b873-f7a1-4b11-a1fb-43d8f3df9208.webp",
+    "/images/products/820d5b3e-b996-4c70-a341-1882586d4f2c.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650948104064"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650948104064"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267833090cc4444bd1f939b"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Mafia: Definitive Edition 2K Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2020.\r\nGénero: acción y aventura.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 500,
+  "salePrice": 210,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 15,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/02ebcedb-9e31-4aae-9e08-26b8d4ee419c.webp",
+    "/images/products/fafa099b-3718-4640-a56c-3128dd112db8.webp",
+    "/images/products/119b858f-703b-482a-b29c-2dc8b1b0681a.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650950960115"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650950960115"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626787da90cc4444bd1f93af"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Resident Evil: Revelations 2 Standard Edition Capcom Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2015.\r\nDesarrollado por Capcom.\r\nGénero: acción, aventura y terror.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 400,
+  "salePrice": 200,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 17,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/3fbe5c78-ee50-4dd7-b2ef-f8300472377d.webp",
+    "/images/products/924e223b-63e8-48ef-86b6-9bb085d16b08.webp",
+    "/images/products/96c7685d-4fb8-49ea-8fe5-3324141cb480.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650952154952"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650952154952"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265b3a689274be4c644bc1d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "JCKEL-Cable auxiliar estéreo de 3,5mm a 3,5mm",
+  "description": "JCKEL-Cable auxiliar estéreo de 3,5mm a 3,5mm, conector macho a macho, nailon trenzado para iPhone, iPod, coche, MP3/MP4",
+  "marca": "JCKEL",
+  "purchasePrice": 35,
+  "salePrice": 11,
+  "colors": [
+    "Rosa",
+    "Blanco",
+    "Morado"
+  ],
+  "stock": 20,
+  "materials": [
+    "Platico",
+    "Metal",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/0710deac-798b-4094-82ef-219627a91835.webp",
+    "/images/products/b5f9f402-d4cd-40ec-b8cc-5198fe6189c8.webp"
+  ],
+  "sizes": {
+    "width": 1,
+    "height": 100,
+    "depth": 3.5
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650832294987"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650832294987"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265c3cc89274be4c644bc83"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Kingston-memoria USB",
+  "description": "Kingston-unidad Flash USB DTSE9G2, 3,0, 128, 16, 32, 64, DT104, USB 2,0",
+  "marca": "Kingston",
+  "purchasePrice": 170,
+  "salePrice": 90,
+  "colors": [
+    "Gris"
+  ],
+  "stock": 8,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/b6263343-0f22-439e-870a-211fb32656c2.webp",
+    "/images/products/b25b4ef1-0f55-47a4-bea9-1e3a618a2fde.webp"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 6,
+    "depth": 1
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650836428417"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650836428417"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265c61d89274be4c644bc8b"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "MARIO KART 8 DELUXE",
+  "description": "Sal a la carretera con la versión final de Mario Kart 8 y juega en cualquier momento y en cualquier lugar! Carreras con sus amigos o en batalla. Juega a nivel local en un máximo de 4 jugadores. ",
+  "marca": "Nintendo",
+  "purchasePrice": 1200,
+  "salePrice": 700,
+  "colors": [
+    "Amarillo",
+    "Azul",
+    "Blanco",
+    "Negro",
+    "Verde"
+  ],
+  "stock": 3,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/617d586a-cea8-4159-a008-c036701f2c81.jpg"
+  ],
+  "sizes": {
+    "width": 17,
+    "height": 30,
+    "depth": 2
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650837021543"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650837021543"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265cf4789274be4c644bcdd"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": " Gta V Crim Enterp Xone Edición Premium para Xbox One Juego Físico",
+  "description": "Grand Theft Auto V: Premium Online Edition incluye la experiencia completa de la historia de Grand Theft Auto V, el mundo siempre en evolución de Grand Theft Auto Online y todas las actualizaciones y el contenido del juego, incluidos",
+  "marca": "Rockstar Games",
+  "purchasePrice": 539,
+  "salePrice": 399,
+  "colors": [
+    "Blanco",
+    "Verde",
+    "Negro"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/bec3a9a5-a52f-4d87-8aab-28fb3db3a2ef.jpg"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650839367378"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650839367378"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265d02589274be4c644bce5"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Minecraft Starter Edición Collectors para Xbox One Juego Físico",
+  "description": "Descubre este Minecraft Xbox One Starter Collection, una colección que incluye el juego, 700 minecoins y el starter pack dlc.",
+  "marca": "Mojang Studios",
+  "purchasePrice": 700,
+  "salePrice": 399,
+  "colors": [
+    "Verde",
+    "Azul",
+    "Amarillo"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/f3a7deab-9c34-435b-8171-1cb46eaeb2d0.webp"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650839589242"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650839589242"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265d17389274be4c644bcf3"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Plants Vs Zombies Battle For Neigh Xone Edición Estándar para Xbox One Juego Físico",
+  "description": "¡Prepárate para una plantiza! ¡El juego de disparos más loco hasta la fecha! Plantas y zombis con 20 clases totalmente personalizables desde el lanzamiento. Usa habilidades únicas de cada clase en 6 modos JcJ. Incluido el nuevo Arena de batalla",
+  "marca": "Electronic Arts",
+  "purchasePrice": 424,
+  "salePrice": 199,
+  "colors": [
+    "Azul",
+    "Amarillo",
+    "Gris",
+    "Rosa",
+    "Verde"
+  ],
+  "stock": 3,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/1752f367-8eaa-4864-a01e-81ea7e119e9f.jpg"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650839923752"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650839923752"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265d7f389274be4c644bd2d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Mortal Kombat X Edición Estándar para Xbox One Juego Físico",
+  "description": "Mortal Kombat X aúna un aspecto cinematográfico y una mecánica de juego nunca vistos. Por primera vez, los jugadores pueden elegir múltiples variantes de cada personaje con impacto tanto en la estrategia como en el estilo de lucha.",
+  "marca": "NetherRealm Studios ",
+  "purchasePrice": 999,
+  "salePrice": 499,
+  "colors": [
+    "Amarillo",
+    "Gris",
+    "Verde",
+    "Negro"
+  ],
+  "stock": 3,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/b94ed634-9298-4bbe-b0a3-b87737ae42ab.webp"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650841587398"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650841587398"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62662a23f546fcd65a15fc0d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "God of War (2018) Standard Edition Sony PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2018.\r\nDesarrollado por SIE Santa Monica Studio.\r\nGénero: acción, aventura y rpg.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 500,
+  "salePrice": 348,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 4,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/024f763d-6a16-4b15-8a26-30f500b45d74.webp",
+    "/images/products/65171e26-c835-4b89-a591-692c19027f4f.webp",
+    "/images/products/652d5b5e-2f6f-4210-bd91-8fb122ae08aa.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650862627756"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650862627756"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626780b190cc4444bd1f9387"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Assassin's Creed IV Black Flag Standard Edition Ubisoft Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2013.\r\nDesarrollado por Ubisoft.\r\nGénero: acción.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.",
+  "marca": "Xbox One",
+  "purchasePrice": 500,
+  "salePrice": 200,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/558a87e9-6da4-410f-9f08-9aa09f6aa3e7.webp",
+    "/images/products/4ce0abb1-b257-427d-9c86-a0100bd3d01a.webp",
+    "/images/products/e8ebbd09-9bda-4b81-b86a-2259bc49a779.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650950321898"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650950321898"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265c15089274be4c644bc73"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Mando para Xbox One, mando de Control, cargador de batería, soporte de carga, accesorios, soporte de carga remota",
+  "description": "Este producto es adecuado para el controlador inalámbrico XBOXONE.\r\nSe pueden cargar dos controladores al mismo tiempo.\r\nEquipado con una batería de litio recargable de gran capacidad, que puede proporcionar una gran potencia para el mango.",
+  "marca": "DOBE",
+  "purchasePrice": 500,
+  "salePrice": 234,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 5,
+  "materials": [
+    "Alumnio",
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/936bc0da-32a6-42fe-ab9c-b50ef2afda54.webp"
+  ],
+  "sizes": {
+    "width": 25,
+    "height": 15,
+    "depth": 5
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650835792331"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650835792331"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265baeb89274be4c644bc35"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Kivee-minialtavoz Bluetooth",
+  "description": "Kivee-minialtavoz Bluetooth para reproductor de música inalámbrico portátil de dibujos animados, Subwoofer, graves, Hifi, impermeable",
+  "marca": "Kivee",
+  "purchasePrice": 240,
+  "salePrice": 120,
+  "colors": [
+    "Rojo",
+    "Rosa"
+  ],
+  "stock": 6,
+  "materials": [
+    "Alumnio",
+    "Metal",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/6ee8104f-803b-4f3a-8d3b-b9c59beee7e7.webp",
+    "/images/products/5b7bc8bf-b9d4-4edd-b00b-0f708a04a320.webp",
+    "/images/products/6eac547e-3d34-4206-b84c-8b4c668c3319.webp"
+  ],
+  "sizes": {
+    "width": 10,
+    "height": 14,
+    "depth": 3
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650834155896"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650834155896"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265ae5e89274be4c644bc15"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Cable de Audio y Video RCA",
+  "description": "Cable de Audio y Video RCA para xbox",
+  "marca": "SKU: VZ-PS3-CRCA",
+  "purchasePrice": 80,
+  "salePrice": 37,
+  "colors": [
+    "Negro",
+    "Amarillo",
+    "Rojo",
+    "Blanco"
+  ],
+  "stock": 8,
+  "materials": [
+    "Alumnio",
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/39f92387-8d7c-4048-b30d-821f9d69020f.webp"
+  ],
+  "sizes": {
+    "width": 4,
+    "height": 100,
+    "depth": 0.9
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650830942110"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650830942110"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265908740416e6996036514"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "JBL-auriculares inalámbricos T500BT",
+  "description": "JBL-auriculares inalámbricos T500BT originales, cascos con Bluetooth, sonido de graves profundos, Auriculares deportivos para juegos con micrófono y reducción de ruido",
+  "marca": "JBL",
+  "purchasePrice": 850,
+  "salePrice": 450,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 6,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/bb6e42f7-22c1-40d9-9c70-ed6b578db9dd.webp",
+    "/images/products/c6afd7cf-ec1e-40c6-afac-f08fc32e0cef.webp"
+  ],
+  "sizes": {
+    "width": 30,
+    "height": 25,
+    "depth": 4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650823303108"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650823303108"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265d3ee89274be4c644bd0b"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": " Cuphead Edición Estándar para Xbox One y Windows 10 Juego Digital",
+  "description": "Cuphead es un juego de acción clásico estilo \"dispara y corre\" que se centra en combates contra el jefe. Inspirado en los dibujos animados de los años 30, los aspectos visual y sonoro están diseñados con esmero empleando las mismas",
+  "marca": "StudioMDHR",
+  "purchasePrice": 349,
+  "salePrice": 199,
+  "colors": [
+    "Amarillo",
+    "Azul",
+    "Verde",
+    "Rojo",
+    "Negro"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/c19ae6a2-a6ca-40bb-8533-ff2f4ce9dd2d.jpg"
+  ],
+  "sizes": {
+    "width": 23,
+    "height": 35,
+    "depth": 3
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650840558109"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650840558109"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62663e04f546fcd65a15fc48"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Resident Evil 2 Remake Standard Edition Capcom PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2019.\r\nDesarrollado por Capcom.\r\nGénero: supervivencia y terror.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 700,
+  "salePrice": 500,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 11,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/4e3d28d5-33d9-4fe1-99b0-ff6be3dcab3f.webp",
+    "/images/products/40d700ec-4e42-4c67-8ffa-10c0513e1798.webp",
+    "/images/products/99dd5c44-ac4f-4d64-9403-377eb6a0a7ba.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650867716891"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650867716891"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626747f890cc4444bd1f929d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Mortal Kombat XL Warner Bros. PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2016.\r\nDesarrollado por NetherRealm Studios.\r\nGénero: pelea.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 350,
+  "salePrice": 150,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 12,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/f6a70eee-0b8f-486e-8f5b-0db14e91f7e6.webp",
+    "/images/products/2185e218-7fab-4b44-be69-1d7b05979555.webp",
+    "/images/products/5e7589b6-d755-4a8b-8355-dea45285ab11.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650935800989"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650935800989"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265db9989274be4c644bd3d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Funko Pop! Marvel Thor: Love and Thunder - Thor",
+  "description": "¡Electrifica tu colección Marvel con Pop! Thor de Thor: Amor y Trueno. ¡Estallido! Thor empuña su martillo y su armadura refleja detalles metálicos dorados y plateados.\r\nViene con un soporte transparente integrado.",
+  "marca": "Funko",
+  "purchasePrice": 396,
+  "salePrice": 199,
+  "colors": [
+    "Azul",
+    "Amarillo",
+    "Negro"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/4c0fcda8-3fd3-438b-a831-ebc4dbef4425.jpg",
+    "/images/products/b8e96110-d0f5-4557-9aa4-f45b91d770c0.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650842521058"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650842521058"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265e33989274be4c644bd5a"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko Pop! Star Wars: Across The Galaxy - K-2SO (Jedha) Amazon Exclusive",
+  "description": "Este droide de la serie KX fue creado para realizar seguridad adicional para el Imperio Galáctico, aunque fue reprogramado para ayudar a la Alianza en su lucha contra el Imperio.\r\n¡Ahora es tu oportunidad de coleccionar el Pop exclusivo! K-2S0 (Jedha). ",
+  "marca": "Funko",
+  "purchasePrice": 449,
+  "salePrice": 299,
+  "colors": [
+    "Gris",
+    "Negro"
+  ],
+  "stock": 1,
+  "materials": [
+    "Metal",
+    "Alumnio",
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/4698df40-6b76-47cb-9367-fb0730835016.jpg",
+    "/images/products/47d99efd-d625-4644-b76a-47d14e1139f4.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650844473507"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650844473507"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266169289274be4c644be1d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Fortnite Figura de la Serie Legendary de 6 Pulgadas, Peely",
+  "description": "La figura de acción Peely de 6 pulgadas cuenta con 34 puntos de articulación y decoración muy detallada inspirada en uno de los trajes más populares de Fortnite de Epic Games.",
+  "marca": "Fornite",
+  "purchasePrice": 495,
+  "salePrice": 250,
+  "colors": [
+    "Amarillo"
+  ],
+  "stock": 495,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/fdd94a80-4435-4a8f-86cf-2fd0a9c70bf8.jpg",
+    "/images/products/c779709f-728c-44d8-b553-957163ca1aa1.jpg",
+    "/images/products/8f32a98a-5bb5-4cd5-88d1-548bcbdb2a5e.jpg"
+  ],
+  "sizes": {
+    "width": 21,
+    "height": 52,
+    "depth": 4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650857618150"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650857618150"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266188389274be4c644be3d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Bandai México McFarlane - Mortal Kombat - Kotal Khan",
+  "description": "Bandai México trae para ti la increíble figura exclusiva de Kotal Khan\r\nFiguras a escala de 7” basadas en el videojuego de Mortal Kombat MK11",
+  "marca": "McFarlane",
+  "purchasePrice": 689,
+  "salePrice": 399,
+  "colors": [
+    "Verde",
+    "Negro"
+  ],
+  "stock": 3,
+  "materials": [
+    "Platico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/4ac5c754-2654-49ef-aaa6-debf1ff2c392.jpg",
+    "/images/products/facb2600-1fae-49d6-b85d-c942871a8169.jpg",
+    "/images/products/09fd6cd5-8bad-4daf-9025-8ba1411bcf82.jpg"
+  ],
+  "sizes": {
+    "width": 7,
+    "height": 17,
+    "depth": 5
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650858115055"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650858115055"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62677e3190cc4444bd1f937d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "The Elder Scrolls V: Skyrim Special Edition Bethesda Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2016.\r\nDesarrollado por Bethesda.\r\nGénero: acción y rpg.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 730,
+  "salePrice": 440,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/963d78a9-c580-4874-b770-dc744ef084e0.webp",
+    "/images/products/d31f7704-6146-4f3c-9792-7c53b974f576.webp",
+    "/images/products/8ece250e-d99b-4486-bd19-10aa01c2110e.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650949681907"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650949681907"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267821890cc4444bd1f9391"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Metal Gear Solid V: The Phantom Pain Standard Edition Konami Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2015.\r\nDesarrollado por Konami.\r\nGénero: acción y rpg.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.",
+  "marca": "Xbox One",
+  "purchasePrice": 600,
+  "salePrice": 370,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/451053ea-1bce-4b96-8cdb-818c9c1a410c.webp",
+    "/images/products/641986e2-9e03-4a49-962a-3fba4d7c878a.webp",
+    "/images/products/2d3cb0d5-19bd-42ec-a65f-1cc5c2acb081.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650950680965"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650950680965"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266054a89274be4c644bd8a"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko Pop! Disney: Nightmare Before Christmas - Undersea GAL",
+  "description": "De Pesadilla antes de Navidad, chica submarina, como un vinilo POP estilizado de Funko\r\nSoportes coleccionables estilizados de 3 ¾ pulgadas de alto, perfectos para cualquier fanático de Pesadilla antes de Navidad",
+  "marca": "Funko",
+  "purchasePrice": 399,
+  "salePrice": 149,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/17a4ec6e-e73b-4995-95ee-99713c21e4d3.jpg",
+    "/images/products/2d4ed3df-153b-4606-8bff-6ac28208dc4a.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.5
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650853194345"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650853194345"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266065789274be4c644bd9a"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko Soda: Captain Carter",
+  "description": "Captain Carter es una de las protagonistas de la serie animada de Marvel Studios What if...?, siendo una variante de la agente Carter con el suero del supersoldado",
+  "marca": "Funko",
+  "purchasePrice": 499,
+  "salePrice": 299,
+  "colors": [
+    "Azul",
+    "Rojo"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/5221eb6b-057d-4367-806f-ff5750c2a93c.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650853463342"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650853463342"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62660de289274be4c644bde4"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Halo Paquete de 3 Figuras de Villano de 4 Pulgadas – Elite Warlord y 2 Conscripts Grunt",
+  "description": "Cuenta con 1 figura Elite Warlord, 2 figuras Grunt Conscript, 1 accesorio de espada de energía, 2 accesorios de aguja y 3 soportes de terreno\r\nLas 3 figuras están totalmente articuladas para una máxima jugabilidad y posibilidad de posar",
+  "marca": "Halo",
+  "purchasePrice": 854,
+  "salePrice": 599,
+  "colors": [
+    "Naranja",
+    "Gris"
+  ],
+  "stock": 2,
+  "materials": [
+    "Alumnio",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/db555e76-2671-468e-a072-d7be16a85fb5.jpg",
+    "/images/products/2fae3e5e-5a43-4107-b6dc-bf97b156ddc1.jpg",
+    "/images/products/148eb60c-a8ab-4736-b290-1eaf4dee5f0d.jpg"
+  ],
+  "sizes": {
+    "width": 10.5,
+    "height": 45,
+    "depth": 24
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650855394061"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650855394061"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266124f89274be4c644bdfc"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Fortnite Legendary Series - Kit de peleadores, 17,78 cm, Figura articulada con Armas y Herramientas de Cosecha",
+  "description": "Esta figura de Fortnite Brawlers incluye detalles de juego\r\nARTICULADO A LOS 35+ puntos de articulación, para que puedas recrear tus momentos favoritos de Fortnite\r\nLa figura del kit Fortnite está equipada con armas y herramientas de cosecha",
+  "marca": "Fornite",
+  "purchasePrice": 744,
+  "salePrice": 499,
+  "colors": [
+    "Verde",
+    "Azul",
+    "Naranja",
+    "Gris"
+  ],
+  "stock": 3,
+  "materials": [
+    "Alumnio",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/bee16831-9b99-4a83-972d-688a5f9c59f6.jpg",
+    "/images/products/2f253f29-4c5e-45ae-abec-08993c924b41.jpg",
+    "/images/products/bc837c0a-e071-4610-8843-0e3fc59db742.jpg"
+  ],
+  "sizes": {
+    "width": 5,
+    "height": 27,
+    "depth": 20
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650856527694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650856527694"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626624c8f546fcd65a15fbf9"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Horizon Forbidden West Standard Edition Sony PS4 Físico",
+  "description": "Con este juego de Horizon vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer.\r\n\r\nDiversión sin fronteras\r\nPodrás compartir cada juego con personas de todo el mundo, ya que es posible conectarse de manera online.",
+  "marca": "Play Station",
+  "purchasePrice": 1200,
+  "salePrice": 900,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 3,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/4687310c-e8a5-4ca0-817b-e565a229ab69.webp",
+    "/images/products/3e232cca-de6a-415a-9a7a-aafc85d34774.webp",
+    "/images/products/5c706055-64f7-4997-a626-d377ced50f8c.webp"
+  ],
+  "sizes": {
+    "width": 7,
+    "height": 5.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650861257018"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650861257018"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267641f90cc4444bd1f92e3"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Call of Duty: Infinite Warfare Standard Edition Activision PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2018.\r\nDesarrollado por Treyarch.\r\nGénero: disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 500,
+  "salePrice": 300,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 12,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/99c8bf98-d6da-40db-ba2d-ad4bc7beb036.webp",
+    "/images/products/e9ffeaf8-b81c-4ad2-8f89-a6d86918a820.webp",
+    "/images/products/c2e730db-00ab-4716-a6b8-cf56c742b2cc.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650943007747"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650943007747"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62676c4990cc4444bd1f9325"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Bloodborne Standard Edition Sony PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2015.\r\nDesarrollado por FromSoftware.\r\nGénero: acción, aventura y rpg.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 780,
+  "salePrice": 500,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 18,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/cee1f8a2-923d-4165-8ecc-cf39d69cfaf1.webp",
+    "/images/products/4bfc3545-e0ef-4f7e-8297-652d5f0d287f.webp",
+    "/images/products/ceae8f86-fb62-47a0-84ad-f53c818b9d5f.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650945097132"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650945097132"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267887090cc4444bd1f93b4"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Remnant From The Ashes - Standard Edition - Xb1",
+  "description": "Lanzada al caos por un antiguo mal de otra dimensión, la humanidad está luchando por sobrevivir. Deben viajar a través de portales para descubrir el misterio de dónde vino el mal, buscar recursos para mantenerse con vida y luchar para que la HUMANIDAD",
+  "marca": "Xbox One",
+  "purchasePrice": 800,
+  "salePrice": 450,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 17,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/a898f3db-8274-43f9-bebe-698d7b96ef42.webp",
+    "/images/products/5c72d0d2-1afe-47a2-9757-a77eac1cdfda.webp",
+    "/images/products/147d23e5-dc19-4d42-943b-2b65e390fe02.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650952304141"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650952304141"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265bd5a89274be4c644bc4d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "OLPAY-Mando con cable USB para Xbox One",
+  "description": "OLPAY-Mando con cable USB para Xbox One, Mando delgado para Xbox One S/Xbox One X/Xbox Series X/PS3/PC",
+  "marca": "OLPAY",
+  "purchasePrice": 730,
+  "salePrice": 420,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/678b7efb-cecd-4897-ae83-1b1c5e0a13da.webp",
+    "/images/products/5a5d47a4-4f36-4ab2-9483-835501ec3f25.webp"
+  ],
+  "sizes": {
+    "width": 21,
+    "height": 15,
+    "depth": 4
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650834778953"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650834778953"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6265e3c689274be4c644bd62"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko Pop! & Buddy: Jurassic World Dominion - Blue & Beta",
+  "description": "¡Se acerca una dosis doble de gran aventura! ¡Llévate a casa papá! Azul y Beta para hacer crecer tu conjunto Jurassic World Dominion.\r\nLas figuras de vinilo miden aproximadamente 6.4 pulgadas y 9.5 pulgadas de alto.",
+  "marca": "Funko",
+  "purchasePrice": 480,
+  "salePrice": 249,
+  "colors": [
+    "Gris"
+  ],
+  "stock": 1,
+  "materials": [
+    "Alumnio",
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/e59b9829-7143-47be-af22-292e5b3a5922.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 6.4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650844614559"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650844614559"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62660ad689274be4c644bdc2"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "League of Legends Figura 10 Cm, Jinx",
+  "description": "PRODUCTO OFICIAL DE LEAGUE OF LEGENDS: Añade a tu colección la figura oficial de Jinx, la Bala Perdida, una criminal perturbada e impulsiva de Zaun. Una figura de gran calidad digna de un campeón.",
+  "marca": "League of Legends",
+  "purchasePrice": 303,
+  "salePrice": 159,
+  "colors": [
+    "Azul",
+    "Morado",
+    "Rosa"
+  ],
+  "stock": 2,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/d4a30ae5-2ed9-40bb-b6c6-2decc9a2a362.jpg",
+    "/images/products/3cddb4c4-c21d-4c22-beed-f1a5a0386b4e.jpg",
+    "/images/products/50ce47c4-3c67-4c8e-8549-2967a63273c2.jpg"
+  ],
+  "sizes": {
+    "width": 20,
+    "height": 25,
+    "depth": 15
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650854614739"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650854614739"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62660e8e89274be4c644bdec"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Halo Figuras de acción Marinas World y UNSC de 4 Pulgadas, más vehículo Warthog",
+  "description": "Cuenta con 1 figura de Master Chief, 1 figura marina USNC y 1 figura de vehículo Warthog Deluxe\r\nTanto las figuras de personajes como del vehículo están totalmente articuladas para una máxima jugabilidad y posibilidad de posar",
+  "marca": "Halo",
+  "purchasePrice": 1400,
+  "salePrice": 998,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 2,
+  "materials": [
+    "Alumnio",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/4c1cd8ee-2c8b-447b-b675-07fe9baea10d.jpg",
+    "/images/products/c975290f-9ea9-4078-abb9-6f782cc72f2d.jpg",
+    "/images/products/b4092b52-6e11-4413-92c4-1f4da55f5c1d.jpg"
+  ],
+  "sizes": {
+    "width": 50,
+    "height": 40,
+    "depth": 20
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650855566678"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650855566678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266131d89274be4c644be04"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Fortnite The Chapter 1 Collection - Diez figuras de acción de 4 pulgadas, con recluta (Jonesy), caballero negro, señor óxido y mas",
+  "description": "El paquete de 10 figuras Battle Royale incluye el popular recluta de trajes Fortnite (Jonesy), Black Knight, Rust Lord, The Visitor, Drift, DJ Yonder, Ice King (dorado), Peely, Roal Voyager.x y Etern\r\n",
+  "marca": "Fornite",
+  "purchasePrice": 2010,
+  "salePrice": 1599,
+  "colors": [
+    "Verde",
+    "Rojo",
+    "Negro",
+    "Naranja",
+    "Gris",
+    "Blanco",
+    "Amarillo"
+  ],
+  "stock": 2,
+  "materials": [
+    "Alumnio",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/ea32e334-00cc-4b86-adad-29a50ddb8ce5.jpg",
+    "/images/products/48828484-9797-4901-919e-16ef9b51bb35.jpg"
+  ],
+  "sizes": {
+    "width": 9,
+    "height": 22,
+    "depth": 21
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650856733667"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650856733667"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626617e789274be4c644be35"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "McFarlane Toys Mortal Kombat The Joker Figura de acción de 7 Pulgadas con Accesorios",
+  "description": "Figura de escala increíblemente detallada de 7 pulgadas basada en la franquicia Mortal Kombat\r\nDiseñado con ultra articulación con hasta 22 partes móviles para una gama completa de poses",
+  "marca": "McFarlane Toys ",
+  "purchasePrice": 535,
+  "salePrice": 289,
+  "colors": [
+    "Negro",
+    "Blanco",
+    "Gris",
+    "Morado"
+  ],
+  "stock": 3,
+  "materials": [
+    "Alumnio",
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/d88f3d65-d2e8-4e33-b0ae-9e19dde75dc1.jpg",
+    "/images/products/5a9cb0f6-6580-4eeb-9b12-6642ab784558.jpg"
+  ],
+  "sizes": {
+    "width": 5,
+    "height": 17,
+    "depth": 2
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650857959733"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650857959733"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626625d2f546fcd65a15fc05"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Marvel's Spider-Man: Miles Morales Standard Edition Sony PS4 Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2020.\r\nDesarrollado por Insomniac Games.\r\nGénero: acción.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 999,
+  "salePrice": 700,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 5,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/c6ee6007-1ca8-499a-a1a7-0c0315ab7214.webp",
+    "/images/products/9eaff301-7ed7-48a3-85f8-018334f0107c.webp",
+    "/images/products/589f61d1-2ba6-4a42-ab1d-4fce89700fbc.webp"
+  ],
+  "sizes": {
+    "width": 5,
+    "height": 7,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650861522428"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650861522428"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626768ac90cc4444bd1f9306"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Days Gone Standard Edition Sony PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2019.\r\nDesarrollado por Bend Studio.\r\nGénero: acción, supervivencia, terror y aventura.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 850,
+  "salePrice": 570,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/8816dbdb-b010-4e7a-98be-44ec603e4816.webp",
+    "/images/products/f4059709-1ee5-4c26-8908-2d0a07ff1e19.webp",
+    "/images/products/c59aa50a-535d-458d-866a-ae64286314ff.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650944172762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650944172762"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267695190cc4444bd1f930b"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Sniper Elite 4 Standard Edition Rebellion, Sold Out PS4 Físico",
+  "description": "Año de lanzamiento: 2017.\r\nDesarrollado por Rebellion.\r\nGénero: disparos.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 600,
+  "salePrice": 400,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/c66c1c2e-39ee-4602-ae09-95b39fa592c8.webp",
+    "/images/products/6aa1301c-1e6e-4d13-b504-6f7113c1b869.webp",
+    "/images/products/4d3d7b8a-c9fd-4b3c-b127-ce63005a1dbc.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650944337561"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650944337561"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62676b5a90cc4444bd1f9320"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Need for Speed Standard Edition Electronic Arts PS4 Físico",
+  "description": "Clasificación B15.\r\nAño de lanzamiento: 2015.\r\nGénero: carreras.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.",
+  "marca": "PS4",
+  "purchasePrice": 500,
+  "salePrice": 320,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 18,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/27afa155-c5c4-4922-9935-229678322284.webp",
+    "/images/products/e232a5d7-be6d-4c95-a637-1d07339f8090.webp",
+    "/images/products/35bb061a-fa81-479d-b7be-439b138a1ea5.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650944858474"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650944858474"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626771f290cc4444bd1f9346"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Call of Duty: Vanguard Standard Edition Activision Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2021.\r\nDesarrollado por Sledgehammer Games.\r\nGénero: acción y disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 900,
+  "salePrice": 550,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 17,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/78201909-6522-43b0-a8c9-576445f7835d.webp",
+    "/images/products/403092f5-75e8-4959-9053-04c3fbdb1be8.webp",
+    "/images/products/57e4be2b-a6d6-4725-be2a-bdf2b0f2aa3e.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650946546182"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650946546182"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62680213320aa7dd8739e02d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Xbox One Juego Halo 5 Guardians Para Xbox One",
+  "description": "Se encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": " 343 Industries",
+  "purchasePrice": 769,
+  "salePrice": 499,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 19,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/85c8e296-f085-4964-a059-25d843afad4c.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650983443868"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650983443868"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626607de89274be4c644bdaa"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Funko Rogue One - Chirrut Imwe",
+  "description": "Pop Star Wars, Chirrut Imwe, Figura Starr Wars\r\nColeccionable de 3\" de alto\r\nFigura de star wars vinil para fan de colección",
+  "marca": "Funko",
+  "purchasePrice": 739,
+  "salePrice": 499,
+  "colors": [
+    "Negro",
+    "Rojo"
+  ],
+  "stock": 1,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/f298d722-3702-4c20-b5e3-596e81e2a116.jpg",
+    "/images/products/bf6e833a-d6e7-453f-93d6-092a1d7a85a3.jpg"
+  ],
+  "sizes": {
+    "width": 6.4,
+    "height": 9.5,
+    "depth": 5.4
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650853854948"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650853854948"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266088d89274be4c644bdb2"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "TV Moment WandaVision ",
+  "description": "TV Moment WandaVision - Mini figura exclusiva de los años 50, incluye figura de lata de soda Agatha Harkness + bolsa nano ciega Marvel Hero 3 artículos",
+  "marca": "Funko",
+  "purchasePrice": 1418,
+  "salePrice": 1000,
+  "colors": [
+    "Morado",
+    "Gris",
+    "Blanco"
+  ],
+  "stock": 1,
+  "materials": [
+    "Plastico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/e319dc7f-79d9-4bc6-9d79-56dc7148c24c.jpg",
+    "/images/products/b5a203f0-3cd8-43fc-b425-d0057b089911.jpg"
+  ],
+  "sizes": {
+    "width": 7.6,
+    "height": 15,
+    "depth": 12
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650854029197"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650854029197"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266178389274be4c644be2d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "McFarlane Toys Mortal Kombat Malefik Spawn Figura de acción de 7 Pulgadas con Accesorios",
+  "description": "Figura de escala increíblemente detallada de 7 pulgadas basada en la franquicia Mortal Kombat\r\nDiseñado con ultra articulación con hasta 22 partes móviles para una gama completa de poses",
+  "marca": "McFarlene",
+  "purchasePrice": 462,
+  "salePrice": 233,
+  "colors": [
+    "Gris",
+    "Rojo",
+    "Negro"
+  ],
+  "stock": 3,
+  "materials": [
+    "Platico",
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/599a4f20-6156-4852-b37c-006e00182bf4.jpg",
+    "/images/products/0fd33bc9-fae5-44f3-9763-75e1a0b4b4ca.jpg",
+    "/images/products/0ed00485-1785-4cb1-90ea-4da838b7f4d5.jpg"
+  ],
+  "sizes": {
+    "width": 5,
+    "height": 17,
+    "depth": 3
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650857859435"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650857859435"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6266238789274be4c644be65"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c78"
+  },
+  "name": "Dell Laptop Inspiron 3501, Core i3 11a. Gen. 8GB RAM, 256 SSD, Win 10 - Plata",
+  "description": "Laptop Inspiron 15\" pantalla de borde estrecho no táctil antirreflejo con retroiluminación LED resolución HD(1366 x 768)\r\nProcesador Intel Core i3-1115G4 de 11a generación (caché de 6 MB, hasta 4,1 GHz)",
+  "marca": "Dell",
+  "purchasePrice": 11000,
+  "salePrice": 9599,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 1,
+  "materials": [
+    "Alumnio",
+    "Metal",
+    "Vidrio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/894bfed5-f823-4326-b3e8-706aabd5ebff.jpg",
+    "/images/products/5a0b143a-8a7c-441c-9f42-7a35f4924736.jpg"
+  ],
+  "sizes": {
+    "width": 60,
+    "height": 55,
+    "depth": 3
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650860935903"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650860935903"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62663ce6f546fcd65a15fc40"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Resident Evil 7: Biohazard Gold Edition Capcom PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2017.\r\nDesarrollado por Capcom.\r\nGénero: acción y terror.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Capcom",
+  "purchasePrice": 450,
+  "salePrice": 300,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 10,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/cac2606e-dab5-46df-a4b5-018897ffe572.webp",
+    "/images/products/de9f429a-e548-45e8-b768-1db1554d2c2f.webp",
+    "/images/products/aaac8f19-594a-48ad-ae53-10c825f5a2df.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650867430777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650867430777"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267638990cc4444bd1f92de"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Call of Duty: Black Ops 4 Standard Edition Actvision PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2018.\r\nDesarrollado por Treyarch.\r\nGénero: disparos.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 400,
+  "salePrice": 200,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 14,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/7957674a-4278-46d9-9cad-861077ffea59.webp",
+    "/images/products/3e6885f1-5c04-4a31-a81d-0722f63fe721.webp",
+    "/images/products/30031e51-afc8-4b87-a1db-fc61a119f085.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650942857998"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650942857998"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267676a90cc4444bd1f92fc"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Dark Souls: Remastered Bandai Namco PS4 Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2017.\r\nDesarrollado por FromSoftware.\r\nGénero: acción.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "PS4",
+  "purchasePrice": 650,
+  "salePrice": 350,
+  "colors": [
+    "Azul"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/1ae2a4f8-01a4-4da5-a90a-c6e63577ae10.webp",
+    "/images/products/96b1bed5-b65c-4b9c-9a7f-2fc45b3c9713.webp",
+    "/images/products/a41a5f13-dcbb-4b9e-9480-11ba361e87e3.webp"
+  ],
+  "sizes": {
+    "width": 5.5,
+    "height": 7.5,
+    "depth": 2.5
+  },
+  "plataform": "PlayStation",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650943850843"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650943850843"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6267716a90cc4444bd1f9339"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Red Dead Redemption 2 Standard Edition Rockstar Games Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2018.\r\nDesarrollado por Rockstar Games.\r\nGénero: acción y aventura.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.\r\nDiversión asegurada.",
+  "marca": "Xbox One",
+  "purchasePrice": 532,
+  "salePrice": 330,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 15,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/826f58b9-0daf-4622-bb98-c49e72bfd364.webp",
+    "/images/products/23329556-3265-413b-86f7-9dd60f80ca4f.webp",
+    "/images/products/b519266e-b132-47c0-b022-33b59168f000.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650946410797"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650946410797"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626786bb90cc4444bd1f93a5"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Metro Exodus Complete Edition",
+  "description": "Metro Exodus Complete Edition incluye la campaña para un jugador de Metro Exodus y ambas emocionantes expansiones; Los dos coroneles y Sam's Story, todos con un impresionante trazado de rayos a 60 FPS.\r\n",
+  "marca": "Xbox One",
+  "purchasePrice": 750,
+  "salePrice": 460,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 18,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/d8a7afc6-131f-4388-b1d2-b5521c8774c7.webp",
+    "/images/products/00bd498c-2c9b-4b28-8ee3-7909b4768dab.webp",
+    "/images/products/0a225c92-a2c1-4aab-8de2-5c14a6129922.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650951867821"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650951867821"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62680016320aa7dd8739e01e"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Dying Light Standard Edition Warner Bros. Xbox One Físico",
+  "description": "Clasificación C.\r\nAño de lanzamiento: 2015.\r\nDesarrollado por Techland.\r\nGénero: acción, terror y rpg.\r\nSe encuentra disponible para jugar online.\r\nEs apto para múltiples jugadores.\r\nEntretenimiento digital.",
+  "marca": "XboxOne",
+  "purchasePrice": 550,
+  "salePrice": 389,
+  "colors": [
+    "Verde"
+  ],
+  "stock": 16,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/82d7a092-33e0-4b5c-ac71-ad906ecf1f9d.webp",
+    "/images/products/50bee1d1-518f-4554-97ae-3f05435339f8.webp",
+    "/images/products/00d45e05-7202-409a-a23f-4ebdeebae2d0.webp"
+  ],
+  "sizes": {
+    "width": 19.8,
+    "height": 15.4,
+    "depth": 1.2
+  },
+  "plataform": "Xbox",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650982934629"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650982934629"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626881ef5294e1459eb5ce1a"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Pokémon Brilliant Diamond - Standard Edition - Nintendo Switch",
+  "description": "Vuelve a visitar la región de Sinnoh y la historia del juego Pokémon Diamond Version\r\nDisfruta de la nostálgica historia del juego Pokémon Diamond Version en la aventura recreada de Pokémon",
+  "marca": " ILCA",
+  "purchasePrice": 1199,
+  "salePrice": 1049,
+  "colors": [
+    "Azul",
+    "Blanco",
+    "Negro"
+  ],
+  "stock": 6,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/f1f45647-126e-428e-b818-8fca9a6e00ca.jpg",
+    "/images/products/31d9d3d4-a72d-4946-872d-edb1beae18af.jpg",
+    "/images/products/b4decf45-1e25-46e9-8115-2bb1c20e5edb.jpg",
+    "/images/products/3d5392b4-a308-49d5-893b-ae3a9d25ba10.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 15,
+    "depth": 17
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651016175285"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651016175285"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62687e375294e1459eb5ce02"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Nintendo Xenoblade Chronicles 2: Torna - The Golden Country vídeo - Juego (Básico)",
+  "description": "Guía a un grupo de legendarios guerreros en una aventura a través de una trágica historia que hunde a un reino y sumerge al héroe en un oscuro camino 500 años antes de los eventos del juego Xenoblade Chronicles 2. ",
+  "marca": "Nintendo",
+  "purchasePrice": 1899,
+  "salePrice": 1500,
+  "colors": [
+    "Naranja"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/b17f7af2-43d2-4086-9119-9562ae0fd2b8.jpg",
+    "/images/products/f02ca10b-45c9-4381-8c62-7adad748ce39.jpg",
+    "/images/products/9bb465bd-0a4b-4deb-83da-e4f9536ddd5b.jpg",
+    "/images/products/5895076f-4583-4a51-9656-1da5051ec7a2.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 15,
+    "depth": 17
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651015223215"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651015223215"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626474b7c24e6a27de2a1d84"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Mario Kart 8 Deluxe Nintendo Switch Edición Standard",
+  "description": "¡Hazte con la versión definitiva de Mario Kart 8 y juega en cualquier momento y en cualquier lugar!",
+  "marca": "Nintendo ",
+  "purchasePrice": 1399,
+  "salePrice": 1100,
+  "colors": [
+    "Rojo",
+    "Negro",
+    "Morado",
+    "Gris",
+    "Azul",
+    "Blanco"
+  ],
+  "stock": 4,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/1fdb646d-3423-4749-9fd8-65e35601671f.jpg",
+    "/images/products/e16b7a67-976c-4911-870c-b4d2d968837a.webp",
+    "/images/products/8e645827-6162-47b8-a72b-8402f5e89d97.jpg",
+    "/images/products/34f966a3-9a5e-4c0e-abe6-c5c0fefbb09e.jpg"
+  ],
+  "sizes": {
+    "width": 1,
+    "height": 17,
+    "depth": 13
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650750647692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650750647692"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626894405294e1459eb5ce27"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Mario Party Superstars - Standard Edition - Nintendo Switch",
+  "description": "Clasificación del juego: A Todo Público\r\nUna colección superestrella de tableros clásicos para Nintendo 64\r\n¡Regresan 100 minijuegos clásicos de los juegos para las consolas Nintendo 64 y Nintendo GameCube y más!",
+  "marca": "Nintendo",
+  "purchasePrice": 1199,
+  "salePrice": 1090,
+  "colors": [
+    "Rosa",
+    "Rojo",
+    "Verde",
+    "Amarillo",
+    "Azul"
+  ],
+  "stock": 2,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/9af477eb-8d7c-4efa-9cad-adfcd0ec72da.jpg",
+    "/images/products/25528d82-1232-4d21-8d40-d4104c357b18.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 15,
+    "depth": 17
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651020864005"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651020864005"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62689ecc5294e1459eb5ce3d"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Super Mario Odyssey - Standard Edition - Nintendo Switch",
+  "description": "Acompaña a Mario en una aventura en 3D enorme por todo el planeta usando sus nuevas habilidades para recoger lunas que servirán de combustible a tu aeronave, la Odyssey",
+  "marca": "NIntendo",
+  "purchasePrice": 1499,
+  "salePrice": 1299,
+  "colors": [
+    "Amarillo",
+    "Naranja",
+    "Rosa",
+    "Rojo"
+  ],
+  "stock": 5,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/d6151046-fdf9-48cc-bf49-a471d814286c.jpg",
+    "/images/products/46f72281-425c-4daa-8cad-e1b85392ad84.jpg",
+    "/images/products/515825fe-db90-4267-9438-577bbe4865d7.jpg",
+    "/images/products/b0a62554-202f-4592-84c7-e8934e2040ca.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 16,
+    "depth": 13
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651023564236"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651023564236"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6268a0725294e1459eb5ce49"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "The Legend of Zelda: Breath of the Wild - Standard Edition ",
+  "description": "Viaja a través de praderas y bosques, y alcanza cimas de montañas mientras descubres cómo cayó en la ruina el reino de Hyrule en esta emocionante aventura al aire libre. Ahora con Nintendo Switch, tu aventura será más libre y extensa que nunca.",
+  "marca": "NIntendo, Monolith Soft",
+  "purchasePrice": 1499,
+  "salePrice": 1297,
+  "colors": [
+    "Azul",
+    "Amarillo",
+    "Rojo",
+    "Verde"
+  ],
+  "stock": 4,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/fd34dac6-920d-4538-9031-e9da15233426.jpg",
+    "/images/products/bd8d5397-4cd5-4cf6-8213-7431b8dafa23.jpg",
+    "/images/products/e03f0e6f-bbcb-4868-b46f-d8126bbfe8e1.jpg",
+    "/images/products/ae1a525f-b33b-4b5b-92c7-aa955e27d8e3.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 17,
+    "depth": 13
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651023986303"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651023986303"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62687c8d5294e1459eb5cdfa"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Xenoblade Chronicles™ Definitive Edition",
+  "description": "Descubre los orígenes de Shulk mientras él y sus compañeros se enfrentan a una amenaza mecánica aparentemente insuperable.",
+  "marca": "Nintendo",
+  "purchasePrice": 1599,
+  "salePrice": 1299,
+  "colors": [
+    "Azul",
+    "Verde",
+    "Rosa",
+    "Rojo",
+    "Negro"
+  ],
+  "stock": 3,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/5f8fc1da-fd8b-4801-81db-1cfba67e1f90.jpg",
+    "/images/products/1c15b092-f356-4662-9b25-d9a433ca6e38.jpg",
+    "/images/products/8b113392-d5b5-462b-8bcd-5b0fb54df194.jpg",
+    "/images/products/199afe71-9814-4a9a-a1b3-13fd8f074c7f.jpg"
+  ],
+  "sizes": {
+    "width": 1,
+    "height": 15,
+    "depth": 17
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651014797143"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651014797143"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626879475294e1459eb5cdea"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Super Mario Maker 2 - Nintendo Switch - standard Edition",
+  "description": "¡Excelentes noticias para los seguidores de Mario! Ahora puedes jugar, crear y compartir* niveles de desplazamiento lateral de Super Mario™ en Super Mario Maker™ 2, ¡disponible exclusivamente para la consola Nintendo Switch",
+  "marca": "Nintendo",
+  "purchasePrice": 1500,
+  "salePrice": 1300,
+  "colors": [
+    "Negro",
+    "Naranja",
+    "Rojo"
+  ],
+  "stock": 5,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/856898cf-295b-4e99-9023-9b35b63fa579.jpg",
+    "/images/products/4e37b2eb-03e7-4b1b-a5c0-1a5c257da083.jpg",
+    "/images/products/726c072c-c9ee-4c6e-be85-36dace4e9b61.jpg",
+    "/images/products/2d32acdc-19a3-402a-bd3e-d9872d373da1.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 14,
+    "depth": 17
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651013959379"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651013959379"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6268a3e25294e1459eb5ce59"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Hyrule Warriors: Age of Calamity - Standard Edition - Nintendo Switch",
+  "description": "Experimenta los eventos del gran cataclismo 100 años antes del juego The Legend of Zelda: Breath of the Wild\r\nJuega con personajes como Link, Zelda y más y aprende sus distintas habilidades de ataque y sus estilos de combate",
+  "marca": "Nintendo",
+  "purchasePrice": 1399,
+  "salePrice": 1199,
+  "colors": [
+    "Naranja",
+    "Negro",
+    "Rojo",
+    "Amarillo"
+  ],
+  "stock": 7,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/4ea5643e-d9c0-4146-951a-a49575171b54.jpg",
+    "/images/products/c07567de-1d94-4243-ba1d-18b9b88eda38.jpg",
+    "/images/products/461d0cf1-dafb-45a4-800b-b7745cae883b.jpg",
+    "/images/products/ae2a7094-4ef1-4437-a77f-b8e968520261.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 17,
+    "depth": 13
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651024866473"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651024866473"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6268950b5294e1459eb5ce2f"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Super Smash Bros. Ultimate - Standard Edition - Nintendo Switch",
+  "description": "Clasificación del juego: B +12 Años\r\n¡una nueva entrada en la serie Super Smash Bros. para el sistema Nintendo Switch !\r\nNuevos luchadores, como Inkling de la serie Splatoon y Ridley de la serie Metroid, hacen su debut en la serie Super Smash Bros",
+  "marca": "Nintendo",
+  "purchasePrice": 1399,
+  "salePrice": 1099,
+  "colors": [
+    "Verde",
+    "Rosa",
+    "Rojo",
+    "Negro",
+    "Naranja",
+    "Morado",
+    "Gris",
+    "Blanco",
+    "Azul",
+    "Amarillo"
+  ],
+  "stock": 10,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/6d76bc61-f2cd-45fa-a0bb-d4c63a1a6892.jpg",
+    "/images/products/a3012ebc-57f7-4336-ad0c-0e563a7d6eb1.jpg",
+    "/images/products/abab28af-bb7e-44fc-a5a5-39c0d98f479f.jpg",
+    "/images/products/9dfe10dc-4b59-4c9b-aad6-8a000ac78fb8.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 16,
+    "depth": 14
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651021067760"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651021067760"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62687fe35294e1459eb5ce0a"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Kirby and the Forgotten Land - Standard Edition - Nintendo Switch",
+  "description": "Únete a Kirby en una travesía inolvidable a través de un misterioso mundo en esta encantadora aventura de plataformas en 3D",
+  "marca": "Nintendo",
+  "purchasePrice": 1399,
+  "salePrice": 1097,
+  "colors": [
+    "Rosa"
+  ],
+  "stock": 9,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/961dd848-9d38-42bb-8d70-edff6f7541f5.jpg",
+    "/images/products/4c05b142-a482-4dbf-bb7a-38379ef969ea.jpg",
+    "/images/products/2ecf7651-d7f4-4d48-835f-f8bbb606bd96.jpg",
+    "/images/products/5793842a-90a8-4c91-8d10-81049287e562.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 16,
+    "depth": 17
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651015651481"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651015651481"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62687aae5294e1459eb5cdf2"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Luigis Mansion 3 - Standard Edition - Nintendo Switch",
+  "description": "Luigi ha sido invitado al hotel El Gran Descanso Real, ¡pero cuando Mario y sus amigos desaparecen, nuestro héroe de verde tendrá que superar sus miedos para poder salvarlos!",
+  "marca": "Next Level Games",
+  "purchasePrice": 1499,
+  "salePrice": 1399,
+  "colors": [
+    "Verde",
+    "Rojo"
+  ],
+  "stock": 7,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/7e1beec9-03ed-492c-93e1-18f0345a6d88.jpg",
+    "/images/products/66582019-c2df-4be0-accf-955b8b3e940f.jpg",
+    "/images/products/c4881ffc-7935-4a0d-86df-328af3dccd0e.jpg",
+    "/images/products/b4e4d7a3-cb94-4ace-bb55-59bc3b104377.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 15,
+    "depth": 16
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651014318893"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651014318893"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626880e25294e1459eb5ce12"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Pokémon Legends: Arceus - Standard Edition - Nintendo Switch",
+  "description": "La acción se une al juego de rol a medida que la serie Pokémon alcanza nuevas fronteras\r\nViaja a la antigua región de Sinnoh\r\nPrepárate para un nuevo estilo de aventura Pokémon en Pokémon",
+  "marca": " Game Freak",
+  "purchasePrice": 1399,
+  "salePrice": 1099,
+  "colors": [
+    "Azul",
+    "Amarillo",
+    "Blanco",
+    "Rojo",
+    "Negro"
+  ],
+  "stock": 4,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/ab47fb69-aeeb-4290-81ec-0d965e92561a.jpg",
+    "/images/products/d85e7d94-3285-4b9c-8aac-29f3da0fd5d9.jpg",
+    "/images/products/1d2bd21f-8f2f-4816-a3c0-5562e3eba5e7.jpg",
+    "/images/products/7e61ecb5-1794-4ca1-ae3d-72a9727b74d3.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 16,
+    "depth": 16
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651015906429"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651015906429"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6268a27a5294e1459eb5ce51"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "The Legend of Zelda: Skyward Sword HD - Standard Edition - Nintendo Switch",
+  "description": "Apodérate de los cielos, empuña tu espada y disfruta de la historia más antigua en la serie de The Legend of Zelda\r\nÚnete a Link en su aventura por los cielos para rescatar a Zelda, una amiga de la infancia que deberá enfrentarse a su destino.",
+  "marca": "Nintendo ",
+  "purchasePrice": 1399,
+  "salePrice": 1099,
+  "colors": [
+    "Amarillo",
+    "Azul",
+    "Verde"
+  ],
+  "stock": 7,
+  "materials": [
+    "Plastico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/845d594a-510f-48c4-a999-b75043b74358.jpg",
+    "/images/products/28c23ae7-bab9-4a93-9785-b8ca0a502fdc.jpg",
+    "/images/products/a2b31543-1a97-4e5e-a65e-16551dd40d67.jpg",
+    "/images/products/ad6fd08e-b41a-4d67-9969-0616938a63eb.jpg"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 17,
+    "depth": 13
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651024506936"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651024506936"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6280420e9fd6b36a6414868e"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Eris",
+  "description": "Audífono In-ear por conexión TRRS 3.5 mm (jack), multiplataforma, auriculares de 10 mm, micrófono desmontable 3.5 mm MMCX y cable doble trenzado flexible.",
+  "marca": "VSG",
+  "purchasePrice": 555,
+  "salePrice": 500,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 12,
+  "materials": [
+    "Metal"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/522cdbf2-3da0-4af4-a517-d697833413de.webp",
+    "/images/products/3f3ab242-104b-4122-bbbf-42c5a0018b0a.webp",
+    "/images/products/c374add8-3bc6-4c12-9bad-130df63eb435.webp",
+    "/images/products/65d86ae7-9e09-4730-9014-e7708ee6d7d8.webp"
+  ],
+  "sizes": {
+    "width": 2,
+    "height": 100,
+    "depth": 3
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652572686074"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652572686074"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6280439c9fd6b36a64148696"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Tarvos",
+  "description": "Control multiplataforma por conexión USB tipo-C, bluetooth y RF 2.4 GHz. 4 botones adicionales en la parte posterior, función de mapeo y turbo incluido.",
+  "marca": "VSG",
+  "purchasePrice": 800,
+  "salePrice": 596,
+  "colors": [
+    "Negro"
+  ],
+  "stock": 12,
+  "materials": [
+    "Alumnio"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/6ddd8b2d-b2fd-4e90-8ff3-20b5bc0a7efe.webp",
+    "/images/products/f804c672-1c83-422d-a19c-c18289e478d6.webp",
+    "/images/products/f4a17bf1-d85a-40db-bd4a-021d00aaf27f.webp",
+    "/images/products/2adc8488-0038-4de3-ad6f-158355a10969.webp"
+  ],
+  "sizes": {
+    "width": 12,
+    "height": 15,
+    "depth": 5
+  },
+  "plataform": "Pc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652573084193"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652573084193"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62829cf83e3d9ea6397a9da7"
+  },
+  "category": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "ddq",
+  "description": "dadsa",
+  "marca": "wqd",
+  "purchasePrice": 2,
+  "salePrice": 4,
+  "colors": [
+    "Blanco"
+  ],
+  "stock": 121,
+  "materials": [
+    "Platico"
+  ],
+  "status": true,
+  "images": [
+    "/images/products/c09d9f7f-60bb-4849-a2e0-c3ce9f5f10e8.png"
+  ],
+  "sizes": {
+    "width": 1,
+    "height": 2,
+    "depth": 2
+  },
+  "plataform": "Nintendo",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652727032676"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652727032676"
+    }
+  }
+}]

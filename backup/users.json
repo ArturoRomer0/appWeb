@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6268c0722dd30ca7a3e90598"
+  },
+  "firstname": "Jose Arturo",
+  "lastname": "Avendaño Romero",
+  "email": "arturo@gmail.com",
+  "password": "$2a$10$URm2xEmIB9c3FERyEhUgFO..DowmcS4Bw6J0c0vMVVGFHpYGhEDAS",
+  "role": {
+    "$oid": "6268bd6512b44ff360906ce5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651032178118"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651032178118"
+    }
+  }
+}]

@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6268bd6512b44ff360906ce5"
+  },
+  "name": "Admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651031397671"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651031397671"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6268bd6512b44ff360906ce6"
+  },
+  "name": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651031397672"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651031397672"
+    }
+  }
+}]

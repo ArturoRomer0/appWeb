@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "626491a2019e3fe3591f0c75"
+  },
+  "name": "Juegos",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650758050432"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650758050432"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626491a2019e3fe3591f0c78"
+  },
+  "name": "Computadoras",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650758050436"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650758050436"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626491a2019e3fe3591f0c76"
+  },
+  "name": "Juguetes",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650758050435"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650758050435"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626491a2019e3fe3591f0c77"
+  },
+  "name": "Accesorios",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650758050436"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650758050436"
+    }
+  }
+}]
