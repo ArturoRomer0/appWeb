@@ -1,0 +1,45 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@animxyz/vue": "^0.6.6",
+    "@babel/polyfill": "^7.4.4",
+    "@egjs/vue-flicking": "^4.6.2",
+    "@fortawesome/fontawesome-free": "5.15.3",
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "file-upload-with-preview": "^4.3.0",
+    "format-currency": "^1.0.0",
+    "jspdf": "^2.5.1",
+    "jwt-decode": "^3.1.2",
+    "number-grouper": "^0.0.1",
+    "roboto-fontface": "*",
+    "sweetalert2": "^11.3.6",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.4.0",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.4.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^6.6.96",
+    "@mdi/js": "^6.6.96",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-cli-plugin-vuetify": "^2.4.5",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie <= 10"
+  ]
+}
